@@ -13,7 +13,7 @@ const app = express();
 app.use(cookieParser());
 
 app.use(cors({
-    origin: "http://localhost:5173",
+    origin: ["http://localhost:5173", "https://zingy-blancmange-f93eac.netlify.app"],
     methods: ["GET", "POST", "PUT", "PATCH"],
     credentials: true
 }));
