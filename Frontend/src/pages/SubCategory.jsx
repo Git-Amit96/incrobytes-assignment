@@ -1,0 +1,42 @@
+import React, { useEffect, useState } from 'react';
+import { Link, useParams } from 'react-router-dom';
+import ItemCard from '../components/ItemCard.jsx';
+
+const SubCategory = () => {
+
+  const [subCategories, setSubCategories] = useState([]);
+  const {category}= useParams();
+
+  const fetchCategories = async () => {
+    const res = await fetch(`http://localhost:3000/item/sub-category/${category}`, {
+      method: "GET",
+      credentials: "include",
+    });
+    const json = await res.json();
+    setSubCategories(json.data);
+
+  }
+  useEffect(() => {
+    fetchCategories();
+  }, [])
+
+  return (
+    subCategories.length > 0 ? (
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 p-4  w-[90%] m-auto">
+        {subCategories.map((category) => (
+          <Link to={`/products/67f0f2bdd3f2c47c543ed0c8`} key={category._id}>
+            <ItemCard
+              name={category.name}
+              description={category.description}
+            />
+          </Link>
+        ))}
+      </div>
+    ) : (
+      <></>
+    )
+  );
+
+};
+
+export default SubCategory;
