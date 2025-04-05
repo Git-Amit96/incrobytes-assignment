@@ -23,7 +23,7 @@ const Auth = () => {
     e.preventDefault();
     setError("");
 
-    const url = isSignUp ? "http://localhost:3000/auth/user/signUp" : "http://localhost:3000/auth/user/signIn";
+    const url = isSignUp ? "https://incrobytes-assignment.onrender.com/auth/user/signUp" : "https://incrobytes-assignment.onrender.com/auth/user/signIn";
 
     try {
       const res = await fetch(url, {

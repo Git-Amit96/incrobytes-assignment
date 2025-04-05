@@ -8,7 +8,7 @@ const Category = () => {
   const [categories, setCategories] = useState([]);
 
   const fetchCategories = async () => {
-    const res = await fetch("http://localhost:3000/item/category", {
+    const res = await fetch("https://incrobytes-assignment.onrender.com/item/category", {
       method: "GET",
       credentials: "include",
     });

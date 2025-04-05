@@ -31,7 +31,6 @@ app.get("/",(_, res)=>{
 const connect= async()=>{
     try {
         await mongoose.connect(mongoURL);
-        console.log("Database connected successfully.");
         app.listen(port, () => console.log(`Server running on port: ${port}`));
     } catch (error) {
         console.log("Error:", error.message);
@@ -40,10 +39,6 @@ const connect= async()=>{
 
 connect();
 
-
-
-// Sub Category: 67f0f2bdd3f2c47c543ed0c8
-// Category: 67f0f0772c0e382b8af79064
 
 
 

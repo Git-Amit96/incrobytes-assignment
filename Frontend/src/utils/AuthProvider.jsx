@@ -11,7 +11,7 @@ const AuthProvider = ({ children }) => {
 
   const checkUser = async () => {
     try {
-      const res = await fetch("http://localhost:3000/auth/user/verify", {
+      const res = await fetch(`https://incrobytes-assignment.onrender.com/auth/user/verify`, {
         method: "GET",
         credentials: "include",
 

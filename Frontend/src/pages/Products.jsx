@@ -9,7 +9,7 @@ const Products = () => {
   const {subCategory}= useParams();
 
   const fetchCategories = async () => {
-    const res = await fetch(`http://localhost:3000/item/products/${subCategory}`, {
+    const res = await fetch(`https://incrobytes-assignment.onrender.com/item/products/${subCategory}`, {
       method: "GET",
       credentials: "include",
     });

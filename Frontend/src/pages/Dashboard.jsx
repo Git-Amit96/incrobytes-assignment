@@ -14,7 +14,7 @@ const Dashboard = () => {
 
   const handleLogout = async () => {
     try {
-      const res = await fetch("http://localhost:3000/auth/user/logout", {
+      const res = await fetch("https://incrobytes-assignment.onrender.com/auth/user/logout", {
         method: "POST",
         credentials: "include", 
       });
