@@ -1,6 +1,7 @@
 import React from 'react';
 import { Outlet, useNavigate, useParams } from 'react-router-dom';
 import { useAuth } from '../utils/AuthProvider.jsx';
+import BreadCrumb from '@/components/BreadCrumb.jsx';
 
 const Dashboard = () => {
 
@@ -48,9 +49,9 @@ const Dashboard = () => {
       </nav>
       <div className='mt-16 '>
 
-        {category || subCategory ? <div className='text-blue-400 font-medium px-2 py-1 rounded ml-12 mt-3  w-fit cursor-pointer border-2 border-gray-200' onClick={handleClick}>
-          Back
-        </div> : <div className='text-blue-400 font-medium p-5  rounded ml-12'></div>}
+         <div className='text-black font-medium p-2 rounded ml-12 mt-3  w-fit cursor-pointer ' >
+          <BreadCrumb/>
+        </div> 
         <Outlet />
       </div>
     </div>

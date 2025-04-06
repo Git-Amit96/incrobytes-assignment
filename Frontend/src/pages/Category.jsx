@@ -25,7 +25,7 @@ const Category = () => {
     categories.length > 0 ? (
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 w-[90%] m-auto ">
         {categories.map((category) => (
-          <Link to={`/sub-category/67f0f0772c0e382b8af79064`} key={category._id}>
+          <Link to={`/category/67f0f0772c0e382b8af79064/subCategory`} key={category._id}>
             <ItemCard
               name={category.name}
               description={category.description}

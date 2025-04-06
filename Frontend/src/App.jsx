@@ -21,8 +21,8 @@ const App = () => {
           <Route element={<ProtectedRoute />}>
             <Route path="/" element={<Dashboard />}>
               <Route path="/" element={<Category />} />
-              <Route path="sub-category/:category" element={<SubCategory />} />
-              <Route path="products/:subCategory" element={<Products />} />
+              <Route path="/category/:categoryID/subCategory" element={<SubCategory />} />
+              <Route path="/subCategory/:subCategoryID/products" element={<Products />} />
             </Route>
           </Route>
         </Routes>

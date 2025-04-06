@@ -6,10 +6,10 @@ import ItemCard from '../components/ItemCard.jsx';
 const Products = () => {
 
   const [products, setProducts] = useState([]);
-  const {subCategory}= useParams();
+  const {subCategoryID}= useParams();
 
   const fetchCategories = async () => {
-    const res = await fetch(`https://incrobytes-assignment.onrender.com/item/products/${subCategory}`, {
+    const res = await fetch(`https://incrobytes-assignment.onrender.com/item/products/${subCategoryID}`, {
       method: "GET",
       credentials: "include",
     });
