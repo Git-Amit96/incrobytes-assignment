@@ -2,11 +2,11 @@
   "categories": [
     {
       "name": "Fruits & Vegetables",
-      "description": "Fresh and nutritious fruits and vegetables",
+      "description": "Fresh produce and organic items",
       "sub_categories": [
         {
           "name": "Fresh Fruits",
-          "description": "Seasonal and imported fresh fruits",
+          "description": "Seasonal and imported fruits",
           "products": [
             {
               "name": "Apple - Fuji",
@@ -15,34 +15,272 @@
             },
             {
               "name": "Banana - Cavendish",
-              "description": "Sweet and creamy Cavendish bananas",
+              "description": "Sweet and creamy bananas",
               "price": 60
             },
             {
               "name": "Orange - Valencia",
-              "description": "Juicy and sweet Valencia oranges",
+              "description": "Juicy and sweet oranges",
               "price": 80
+            },
+            {
+              "name": "Mango - Alphonso",
+              "description": "Premium Indian mangoes",
+              "price": 200
+            },
+            {
+              "name": "Grapes - Green",
+              "description": "Sweet and seedless green grapes",
+              "price": 120
+            },
+            {
+              "name": "Pomegranate",
+              "description": "Fresh and juicy pomegranates",
+              "price": 180
+            },
+            {
+              "name": "Watermelon",
+              "description": "Sweet and refreshing watermelon",
+              "price": 40
+            },
+            {
+              "name": "Pineapple",
+              "description": "Sweet and tangy pineapple",
+              "price": 100
+            },
+            {
+              "name": "Kiwi",
+              "description": "Fresh and tangy kiwi fruit",
+              "price": 160
+            },
+            {
+              "name": "Strawberry",
+              "description": "Sweet and juicy strawberries",
+              "price": 220
             }
           ]
         },
         {
           "name": "Fresh Vegetables",
-          "description": "Farm-fresh vegetables",
+          "description": "Fresh and organic vegetables",
           "products": [
             {
-              "name": "Tomato - Cherry",
-              "description": "Sweet and juicy cherry tomatoes",
-              "price": 120
-            },
-            {
-              "name": "Cucumber - English",
-              "description": "Crisp and refreshing English cucumbers",
+              "name": "Tomato",
+              "description": "Fresh and ripe tomatoes",
               "price": 40
             },
             {
-              "name": "Carrot - Orange",
-              "description": "Fresh and crunchy orange carrots",
+              "name": "Potato",
+              "description": "Fresh and clean potatoes",
+              "price": 30
+            },
+            {
+              "name": "Onion",
+              "description": "Fresh and crispy onions",
+              "price": 35
+            },
+            {
+              "name": "Carrot",
+              "description": "Fresh and crunchy carrots",
+              "price": 45
+            },
+            {
+              "name": "Capsicum",
+              "description": "Fresh and colorful capsicums",
+              "price": 60
+            },
+            {
+              "name": "Cucumber",
+              "description": "Fresh and crispy cucumbers",
+              "price": 25
+            },
+            {
+              "name": "Spinach",
+              "description": "Fresh and green spinach leaves",
+              "price": 40
+            },
+            {
+              "name": "Broccoli",
+              "description": "Fresh and nutritious broccoli",
+              "price": 80
+            },
+            {
+              "name": "Cauliflower",
+              "description": "Fresh and clean cauliflower",
               "price": 50
+            },
+            {
+              "name": "Green Peas",
+              "description": "Fresh and sweet green peas",
+              "price": 70
+            }
+          ]
+        },
+        {
+          "name": "Organic Produce",
+          "description": "Certified organic fruits and vegetables",
+          "products": [
+            {
+              "name": "Organic Apples",
+              "description": "Certified organic Fuji apples",
+              "price": 200
+            },
+            {
+              "name": "Organic Tomatoes",
+              "description": "Certified organic tomatoes",
+              "price": 80
+            },
+            {
+              "name": "Organic Spinach",
+              "description": "Certified organic spinach",
+              "price": 60
+            },
+            {
+              "name": "Organic Carrots",
+              "description": "Certified organic carrots",
+              "price": 70
+            },
+            {
+              "name": "Organic Broccoli",
+              "description": "Certified organic broccoli",
+              "price": 120
+            },
+            {
+              "name": "Organic Strawberries",
+              "description": "Certified organic strawberries",
+              "price": 280
+            },
+            {
+              "name": "Organic Bell Peppers",
+              "description": "Certified organic bell peppers",
+              "price": 90
+            },
+            {
+              "name": "Organic Kale",
+              "description": "Certified organic kale",
+              "price": 100
+            },
+            {
+              "name": "Organic Blueberries",
+              "description": "Certified organic blueberries",
+              "price": 300
+            },
+            {
+              "name": "Organic Sweet Potatoes",
+              "description": "Certified organic sweet potatoes",
+              "price": 85
+            }
+          ]
+        },
+        {
+          "name": "Exotic Fruits",
+          "description": "Imported and exotic fruits",
+          "products": [
+            {
+              "name": "Dragon Fruit",
+              "description": "Sweet and refreshing dragon fruit",
+              "price": 250
+            },
+            {
+              "name": "Blueberries",
+              "description": "Fresh and sweet blueberries",
+              "price": 280
+            },
+            {
+              "name": "Avocado",
+              "description": "Creamy and nutritious avocado",
+              "price": 220
+            },
+            {
+              "name": "Passion Fruit",
+              "description": "Tangy and aromatic passion fruit",
+              "price": 180
+            },
+            {
+              "name": "Rambutan",
+              "description": "Sweet and juicy rambutan",
+              "price": 160
+            },
+            {
+              "name": "Lychee",
+              "description": "Sweet and fragrant lychee",
+              "price": 200
+            },
+            {
+              "name": "Mangosteen",
+              "description": "Sweet and tangy mangosteen",
+              "price": 240
+            },
+            {
+              "name": "Guava",
+              "description": "Sweet and aromatic guava",
+              "price": 120
+            },
+            {
+              "name": "Persimmon",
+              "description": "Sweet and soft persimmon",
+              "price": 180
+            },
+            {
+              "name": "Star Fruit",
+              "description": "Sweet and tangy star fruit",
+              "price": 160
+            }
+          ]
+        },
+        {
+          "name": "Herbs & Greens",
+          "description": "Fresh herbs and leafy greens",
+          "products": [
+            {
+              "name": "Basil",
+              "description": "Fresh and aromatic basil leaves",
+              "price": 40
+            },
+            {
+              "name": "Mint",
+              "description": "Fresh and cooling mint leaves",
+              "price": 30
+            },
+            {
+              "name": "Parsley",
+              "description": "Fresh and flavorful parsley",
+              "price": 35
+            },
+            {
+              "name": "Lettuce",
+              "description": "Fresh and crispy lettuce",
+              "price": 45
+            },
+            {
+              "name": "Rosemary",
+              "description": "Fresh and aromatic rosemary",
+              "price": 50
+            },
+            {
+              "name": "Thyme",
+              "description": "Fresh and fragrant thyme",
+              "price": 45
+            },
+            {
+              "name": "Cilantro",
+              "description": "Fresh and flavorful cilantro",
+              "price": 35
+            },
+            {
+              "name": "Kale",
+              "description": "Fresh and nutritious kale",
+              "price": 60
+            },
+            {
+              "name": "Arugula",
+              "description": "Fresh and peppery arugula",
+              "price": 55
+            },
+            {
+              "name": "Dill",
+              "description": "Fresh and aromatic dill",
+              "price": 40
             }
           ]
         }
@@ -124,6 +362,2866 @@
               "name": "Danish - Cheese",
               "description": "Sweet cheese danish pastry",
               "price": 55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Electronics",
+      "description": "Electronic devices and accessories",
+      "sub_categories": [
+        {
+          "name": "Smartphones",
+          "description": "Latest smartphones and accessories",
+          "products": [
+            {
+              "name": "iPhone 14 Pro",
+              "description": "Latest Apple iPhone with advanced camera system",
+              "price": 99900
+            },
+            {
+              "name": "Samsung Galaxy S23",
+              "description": "Premium Android smartphone with S Pen",
+              "price": 89900
+            },
+            {
+              "name": "Google Pixel 7",
+              "description": "Google's flagship smartphone with amazing camera",
+              "price": 59900
+            },
+            {
+              "name": "OnePlus 11",
+              "description": "Fast and smooth Android experience",
+              "price": 49900
+            },
+            {
+              "name": "Xiaomi 13 Pro",
+              "description": "Feature-rich smartphone with Leica cameras",
+              "price": 54900
+            },
+            {
+              "name": "iPhone 14",
+              "description": "Standard iPhone with great performance",
+              "price": 79900
+            },
+            {
+              "name": "Samsung Galaxy A54",
+              "description": "Mid-range smartphone with great features",
+              "price": 39900
+            },
+            {
+              "name": "Nothing Phone 1",
+              "description": "Unique design with Glyph interface",
+              "price": 32900
+            },
+            {
+              "name": "Vivo X90 Pro",
+              "description": "Premium camera-focused smartphone",
+              "price": 59900
+            },
+            {
+              "name": "Realme GT Neo 5",
+              "description": "Gaming-focused smartphone",
+              "price": 29900
+            }
+          ]
+        },
+        {
+          "name": "Laptops",
+          "description": "Personal and professional laptops",
+          "products": [
+            {
+              "name": "MacBook Pro 14",
+              "description": "Powerful Apple laptop with M2 Pro chip",
+              "price": 199900
+            },
+            {
+              "name": "Dell XPS 13",
+              "description": "Premium Windows laptop with InfinityEdge display",
+              "price": 129900
+            },
+            {
+              "name": "Lenovo ThinkPad X1",
+              "description": "Business laptop with excellent keyboard",
+              "price": 149900
+            },
+            {
+              "name": "HP Spectre x360",
+              "description": "Convertible laptop with premium build",
+              "price": 119900
+            },
+            {
+              "name": "ASUS ROG Zephyrus",
+              "description": "Gaming laptop with RTX graphics",
+              "price": 169900
+            },
+            {
+              "name": "MacBook Air M2",
+              "description": "Lightweight Apple laptop with great battery",
+              "price": 114900
+            },
+            {
+              "name": "Acer Swift 5",
+              "description": "Ultra-lightweight Windows laptop",
+              "price": 89900
+            },
+            {
+              "name": "MSI Creator Z16",
+              "description": "Content creation focused laptop",
+              "price": 189900
+            },
+            {
+              "name": "LG Gram 17",
+              "description": "Ultra-light 17-inch laptop",
+              "price": 139900
+            },
+            {
+              "name": "Razer Blade 15",
+              "description": "Premium gaming laptop with RGB",
+              "price": 179900
+            }
+          ]
+        },
+        {
+          "name": "Audio Devices",
+          "description": "Headphones, speakers and audio accessories",
+          "products": [
+            {
+              "name": "Sony WH-1000XM5",
+              "description": "Premium noise-cancelling headphones",
+              "price": 29900
+            },
+            {
+              "name": "Apple AirPods Pro",
+              "description": "Wireless earbuds with active noise cancellation",
+              "price": 24900
+            },
+            {
+              "name": "Bose QuietComfort 45",
+              "description": "Comfortable noise-cancelling headphones",
+              "price": 27900
+            },
+            {
+              "name": "JBL Flip 6",
+              "description": "Portable Bluetooth speaker",
+              "price": 9990
+            },
+            {
+              "name": "Samsung Buds2 Pro",
+              "description": "Premium wireless earbuds",
+              "price": 19900
+            },
+            {
+              "name": "Sennheiser HD 660S",
+              "description": "High-fidelity open-back headphones",
+              "price": 34900
+            },
+            {
+              "name": "Sonos One SL",
+              "description": "Smart speaker with great sound",
+              "price": 17900
+            },
+            {
+              "name": "Beats Studio Pro",
+              "description": "Premium wireless headphones",
+              "price": 32900
+            },
+            {
+              "name": "Marshall Stanmore II",
+              "description": "Classic design Bluetooth speaker",
+              "price": 24900
+            },
+            {
+              "name": "Shure SE846",
+              "description": "Professional in-ear monitors",
+              "price": 89900
+            }
+          ]
+        },
+        {
+          "name": "Cameras",
+          "description": "Digital cameras and accessories",
+          "products": [
+            {
+              "name": "Sony A7 IV",
+              "description": "Full-frame mirrorless camera",
+              "price": 199900
+            },
+            {
+              "name": "Canon EOS R6",
+              "description": "Professional mirrorless camera",
+              "price": 179900
+            },
+            {
+              "name": "Fujifilm X-T4",
+              "description": "APS-C mirrorless camera",
+              "price": 149900
+            },
+            {
+              "name": "Nikon Z6 II",
+              "description": "Full-frame mirrorless camera",
+              "price": 169900
+            },
+            {
+              "name": "GoPro Hero 11",
+              "description": "Action camera with 5.3K video",
+              "price": 49900
+            },
+            {
+              "name": "Panasonic Lumix S5",
+              "description": "Full-frame mirrorless camera",
+              "price": 159900
+            },
+            {
+              "name": "Olympus OM-1",
+              "description": "Micro Four Thirds camera",
+              "price": 139900
+            },
+            {
+              "name": "Canon EOS 90D",
+              "description": "APS-C DSLR camera",
+              "price": 89900
+            },
+            {
+              "name": "Sony ZV-1",
+              "description": "Vlogging-focused camera",
+              "price": 69900
+            },
+            {
+              "name": "DJI Pocket 2",
+              "description": "Stabilized 4K camera",
+              "price": 29900
+            }
+          ]
+        },
+        {
+          "name": "Gaming",
+          "description": "Gaming consoles and accessories",
+          "products": [
+            {
+              "name": "PlayStation 5",
+              "description": "Next-gen gaming console",
+              "price": 49900
+            },
+            {
+              "name": "Xbox Series X",
+              "description": "Powerful gaming console",
+              "price": 49900
+            },
+            {
+              "name": "Nintendo Switch OLED",
+              "description": "Hybrid gaming console",
+              "price": 29900
+            },
+            {
+              "name": "Razer BlackShark V2",
+              "description": "Gaming headset with THX audio",
+              "price": 9990
+            },
+            {
+              "name": "Logitech G Pro X",
+              "description": "Professional gaming keyboard",
+              "price": 12900
+            },
+            {
+              "name": "Razer DeathAdder V3",
+              "description": "Ergonomic gaming mouse",
+              "price": 5990
+            },
+            {
+              "name": "DualSense Controller",
+              "description": "PS5 wireless controller",
+              "price": 4990
+            },
+            {
+              "name": "Xbox Elite Series 2",
+              "description": "Premium gaming controller",
+              "price": 15900
+            },
+            {
+              "name": "Nintendo Pro Controller",
+              "description": "Premium Switch controller",
+              "price": 5990
+            },
+            {
+              "name": "Gaming Chair",
+              "description": "Ergonomic gaming chair",
+              "price": 24900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Clothing",
+      "description": "Fashion and apparel for all",
+      "sub_categories": [
+        {
+          "name": "Men's Clothing",
+          "description": "Men's fashion and apparel",
+          "products": [
+            {
+              "name": "Classic Fit Shirt",
+              "description": "Comfortable cotton formal shirt",
+              "price": 1499
+            },
+            {
+              "name": "Slim Fit Jeans",
+              "description": "Modern fit denim jeans",
+              "price": 1999
+            },
+            {
+              "name": "Casual T-Shirt",
+              "description": "Comfortable cotton t-shirt",
+              "price": 799
+            },
+            {
+              "name": "Formal Blazer",
+              "description": "Premium wool blend blazer",
+              "price": 4999
+            },
+            {
+              "name": "Chino Pants",
+              "description": "Versatile cotton chino pants",
+              "price": 1799
+            },
+            {
+              "name": "Polo Shirt",
+              "description": "Classic polo shirt",
+              "price": 1299
+            },
+            {
+              "name": "Winter Jacket",
+              "description": "Warm and stylish winter jacket",
+              "price": 3999
+            },
+            {
+              "name": "Cargo Pants",
+              "description": "Practical cargo pants",
+              "price": 1599
+            },
+            {
+              "name": "Sweater",
+              "description": "Warm wool blend sweater",
+              "price": 2499
+            },
+            {
+              "name": "Track Pants",
+              "description": "Comfortable athletic pants",
+              "price": 999
+            }
+          ]
+        },
+        {
+          "name": "Women's Clothing",
+          "description": "Women's fashion and apparel",
+          "products": [
+            {
+              "name": "Floral Dress",
+              "description": "Elegant floral print dress",
+              "price": 2499
+            },
+            {
+              "name": "Skinny Jeans",
+              "description": "Modern fit denim jeans",
+              "price": 1799
+            },
+            {
+              "name": "Blouse",
+              "description": "Stylish formal blouse",
+              "price": 1299
+            },
+            {
+              "name": "Maxi Dress",
+              "description": "Elegant long dress",
+              "price": 2999
+            },
+            {
+              "name": "Pencil Skirt",
+              "description": "Professional pencil skirt",
+              "price": 1499
+            },
+            {
+              "name": "Cardigan",
+              "description": "Versatile knit cardigan",
+              "price": 1999
+            },
+            {
+              "name": "Crop Top",
+              "description": "Trendy crop top",
+              "price": 899
+            },
+            {
+              "name": "Palazzo Pants",
+              "description": "Comfortable wide-leg pants",
+              "price": 1699
+            },
+            {
+              "name": "Winter Coat",
+              "description": "Warm and stylish coat",
+              "price": 4499
+            },
+            {
+              "name": "Yoga Pants",
+              "description": "Comfortable athletic pants",
+              "price": 999
+            }
+          ]
+        },
+        {
+          "name": "Kids Clothing",
+          "description": "Children's fashion and apparel",
+          "products": [
+            {
+              "name": "Boys T-Shirt",
+              "description": "Comfortable cotton t-shirt",
+              "price": 499
+            },
+            {
+              "name": "Girls Dress",
+              "description": "Cute floral dress",
+              "price": 799
+            },
+            {
+              "name": "Kids Jeans",
+              "description": "Durable denim jeans",
+              "price": 699
+            },
+            {
+              "name": "School Uniform",
+              "description": "Complete school uniform set",
+              "price": 1499
+            },
+            {
+              "name": "Winter Sweater",
+              "description": "Warm wool blend sweater",
+              "price": 899
+            },
+            {
+              "name": "Party Dress",
+              "description": "Elegant party dress",
+              "price": 999
+            },
+            {
+              "name": "Sports Uniform",
+              "description": "Athletic uniform set",
+              "price": 799
+            },
+            {
+              "name": "Rain Jacket",
+              "description": "Waterproof rain jacket",
+              "price": 1299
+            },
+            {
+              "name": "Pajama Set",
+              "description": "Comfortable sleepwear",
+              "price": 599
+            },
+            {
+              "name": "Swimwear",
+              "description": "Colorful swimwear set",
+              "price": 699
+            }
+          ]
+        },
+        {
+          "name": "Sports Wear",
+          "description": "Athletic and sports clothing",
+          "products": [
+            {
+              "name": "Running Shoes",
+              "description": "Lightweight running shoes",
+              "price": 4999
+            },
+            {
+              "name": "Yoga Mat",
+              "description": "Non-slip yoga mat",
+              "price": 999
+            },
+            {
+              "name": "Sports Bra",
+              "description": "Supportive sports bra",
+              "price": 799
+            },
+            {
+              "name": "Training Shorts",
+              "description": "Comfortable athletic shorts",
+              "price": 699
+            },
+            {
+              "name": "Tennis Skirt",
+              "description": "Stylish tennis skirt",
+              "price": 899
+            },
+            {
+              "name": "Cycling Jersey",
+              "description": "Aerodynamic cycling jersey",
+              "price": 1299
+            },
+            {
+              "name": "Gym Bag",
+              "description": "Spacious gym bag",
+              "price": 1499
+            },
+            {
+              "name": "Swimming Goggles",
+              "description": "Anti-fog swimming goggles",
+              "price": 599
+            },
+            {
+              "name": "Tennis Shoes",
+              "description": "Court-specific tennis shoes",
+              "price": 3999
+            },
+            {
+              "name": "Basketball Jersey",
+              "description": "Authentic basketball jersey",
+              "price": 1999
+            }
+          ]
+        },
+        {
+          "name": "Accessories",
+          "description": "Fashion accessories and jewelry",
+          "products": [
+            {
+              "name": "Leather Wallet",
+              "description": "Genuine leather wallet",
+              "price": 1999
+            },
+            {
+              "name": "Sunglasses",
+              "description": "Stylish UV protection sunglasses",
+              "price": 2499
+            },
+            {
+              "name": "Watch",
+              "description": "Elegant analog watch",
+              "price": 4999
+            },
+            {
+              "name": "Handbag",
+              "description": "Designer leather handbag",
+              "price": 3999
+            },
+            {
+              "name": "Belt",
+              "description": "Genuine leather belt",
+              "price": 999
+            },
+            {
+              "name": "Scarf",
+              "description": "Warm wool blend scarf",
+              "price": 799
+            },
+            {
+              "name": "Necklace",
+              "description": "Sterling silver necklace",
+              "price": 1499
+            },
+            {
+              "name": "Earrings",
+              "description": "Diamond stud earrings",
+              "price": 9999
+            },
+            {
+              "name": "Backpack",
+              "description": "Durable canvas backpack",
+              "price": 1299
+            },
+            {
+              "name": "Hair Accessories",
+              "description": "Set of hair clips and bands",
+              "price": 499
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Home & Kitchen",
+      "description": "Home appliances and kitchen essentials",
+      "sub_categories": [
+        {
+          "name": "Kitchen Appliances",
+          "description": "Essential kitchen appliances",
+          "products": [
+            {
+              "name": "Stand Mixer",
+              "description": "Professional stand mixer with attachments",
+              "price": 29999
+            },
+            {
+              "name": "Food Processor",
+              "description": "Multi-function food processor",
+              "price": 12999
+            },
+            {
+              "name": "Air Fryer",
+              "description": "Digital air fryer with multiple functions",
+              "price": 8999
+            },
+            {
+              "name": "Blender",
+              "description": "High-speed blender for smoothies",
+              "price": 5999
+            },
+            {
+              "name": "Coffee Maker",
+              "description": "Programmable coffee maker",
+              "price": 4999
+            },
+            {
+              "name": "Toaster Oven",
+              "description": "Convection toaster oven",
+              "price": 3999
+            },
+            {
+              "name": "Rice Cooker",
+              "description": "Automatic rice cooker",
+              "price": 2999
+            },
+            {
+              "name": "Electric Kettle",
+              "description": "Fast-boiling electric kettle",
+              "price": 1499
+            },
+            {
+              "name": "Slow Cooker",
+              "description": "Programmable slow cooker",
+              "price": 3999
+            },
+            {
+              "name": "Juicer",
+              "description": "Cold press juicer",
+              "price": 7999
+            }
+          ]
+        },
+        {
+          "name": "Cookware",
+          "description": "Quality cooking utensils and pots",
+          "products": [
+            {
+              "name": "Non-stick Pan Set",
+              "description": "5-piece non-stick cooking set",
+              "price": 4999
+            },
+            {
+              "name": "Cast Iron Skillet",
+              "description": "Traditional cast iron skillet",
+              "price": 2999
+            },
+            {
+              "name": "Pressure Cooker",
+              "description": "Stainless steel pressure cooker",
+              "price": 3999
+            },
+            {
+              "name": "Baking Sheet Set",
+              "description": "3-piece baking sheet set",
+              "price": 1499
+            },
+            {
+              "name": "Saucepan Set",
+              "description": "3-piece stainless steel set",
+              "price": 2499
+            },
+            {
+              "name": "Dutch Oven",
+              "description": "Enameled cast iron dutch oven",
+              "price": 5999
+            },
+            {
+              "name": "Wok",
+              "description": "Carbon steel wok",
+              "price": 1999
+            },
+            {
+              "name": "Mixing Bowl Set",
+              "description": "5-piece mixing bowl set",
+              "price": 999
+            },
+            {
+              "name": "Roasting Pan",
+              "description": "Non-stick roasting pan",
+              "price": 2499
+            },
+            {
+              "name": "Stock Pot",
+              "description": "Large stainless steel stock pot",
+              "price": 3499
+            }
+          ]
+        },
+        {
+          "name": "Home Decor",
+          "description": "Decorative items for home",
+          "products": [
+            {
+              "name": "Table Lamp",
+              "description": "Modern LED table lamp",
+              "price": 1999
+            },
+            {
+              "name": "Wall Clock",
+              "description": "Contemporary wall clock",
+              "price": 1499
+            },
+            {
+              "name": "Throw Pillows",
+              "description": "Set of decorative pillows",
+              "price": 999
+            },
+            {
+              "name": "Vase Set",
+              "description": "Ceramic vase set",
+              "price": 1299
+            },
+            {
+              "name": "Wall Art",
+              "description": "Canvas wall art print",
+              "price": 2499
+            },
+            {
+              "name": "Photo Frame",
+              "description": "Wooden photo frame set",
+              "price": 799
+            },
+            {
+              "name": "Rug",
+              "description": "Modern area rug",
+              "price": 3999
+            },
+            {
+              "name": "Candle Set",
+              "description": "Scented candle set",
+              "price": 899
+            },
+            {
+              "name": "Mirror",
+              "description": "Decorative wall mirror",
+              "price": 2999
+            },
+            {
+              "name": "Plant Pot Set",
+              "description": "Ceramic plant pot set",
+              "price": 699
+            }
+          ]
+        },
+        {
+          "name": "Bedding",
+          "description": "Bed linens and accessories",
+          "products": [
+            {
+              "name": "Duvet Set",
+              "description": "Premium cotton duvet set",
+              "price": 3999
+            },
+            {
+              "name": "Pillow Set",
+              "description": "Memory foam pillow set",
+              "price": 1499
+            },
+            {
+              "name": "Bed Sheet Set",
+              "description": "Egyptian cotton sheet set",
+              "price": 2499
+            },
+            {
+              "name": "Comforter",
+              "description": "Down alternative comforter",
+              "price": 2999
+            },
+            {
+              "name": "Mattress Topper",
+              "description": "Memory foam mattress topper",
+              "price": 1999
+            },
+            {
+              "name": "Blanket",
+              "description": "Warm fleece blanket",
+              "price": 1299
+            },
+            {
+              "name": "Pillow Cases",
+              "description": "Silk pillow cases set",
+              "price": 999
+            },
+            {
+              "name": "Bed Skirt",
+              "description": "Fitted bed skirt",
+              "price": 899
+            },
+            {
+              "name": "Throw Blanket",
+              "description": "Decorative throw blanket",
+              "price": 799
+            },
+            {
+              "name": "Mattress Protector",
+              "description": "Waterproof mattress protector",
+              "price": 699
+            }
+          ]
+        },
+        {
+          "name": "Storage",
+          "description": "Home storage solutions",
+          "products": [
+            {
+              "name": "Storage Bins",
+              "description": "Set of plastic storage bins",
+              "price": 999
+            },
+            {
+              "name": "Shoe Rack",
+              "description": "Organizer shoe rack",
+              "price": 1499
+            },
+            {
+              "name": "Closet Organizer",
+              "description": "Modular closet organizer",
+              "price": 2999
+            },
+            {
+              "name": "Laundry Basket",
+              "description": "Collapsible laundry basket",
+              "price": 699
+            },
+            {
+              "name": "Storage Box",
+              "description": "Decorative storage box",
+              "price": 899
+            },
+            {
+              "name": "Hanging Organizer",
+              "description": "Door hanging organizer",
+              "price": 599
+            },
+            {
+              "name": "Drawer Organizer",
+              "description": "Drawer divider set",
+              "price": 499
+            },
+            {
+              "name": "Storage Ottoman",
+              "description": "Storage bench ottoman",
+              "price": 1999
+            },
+            {
+              "name": "Basket Set",
+              "description": "Woven basket set",
+              "price": 799
+            },
+            {
+              "name": "Storage Shelf",
+              "description": "Wire storage shelf unit",
+              "price": 2499
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beauty & Personal Care",
+      "description": "Beauty products and personal care items",
+      "sub_categories": [
+        {
+          "name": "Skincare",
+          "description": "Facial and body skincare products",
+          "products": [
+            {
+              "name": "Facial Cleanser",
+              "description": "Gentle facial cleanser",
+              "price": 999
+            },
+            {
+              "name": "Moisturizer",
+              "description": "Hydrating face moisturizer",
+              "price": 1299
+            },
+            {
+              "name": "Serum",
+              "description": "Vitamin C facial serum",
+              "price": 1499
+            },
+            {
+              "name": "Face Mask",
+              "description": "Clay face mask",
+              "price": 799
+            },
+            {
+              "name": "Eye Cream",
+              "description": "Anti-aging eye cream",
+              "price": 1699
+            },
+            {
+              "name": "Sunscreen",
+              "description": "Broad spectrum sunscreen",
+              "price": 899
+            },
+            {
+              "name": "Body Lotion",
+              "description": "Nourishing body lotion",
+              "price": 699
+            },
+            {
+              "name": "Exfoliator",
+              "description": "Gentle facial exfoliator",
+              "price": 599
+            },
+            {
+              "name": "Night Cream",
+              "description": "Repairing night cream",
+              "price": 1399
+            },
+            {
+              "name": "Toner",
+              "description": "Balancing facial toner",
+              "price": 499
+            }
+          ]
+        },
+        {
+          "name": "Makeup",
+          "description": "Cosmetic products",
+          "products": [
+            {
+              "name": "Foundation",
+              "description": "Long-lasting foundation",
+              "price": 1499
+            },
+            {
+              "name": "Lipstick",
+              "description": "Matte finish lipstick",
+              "price": 699
+            },
+            {
+              "name": "Mascara",
+              "description": "Volumizing mascara",
+              "price": 899
+            },
+            {
+              "name": "Eyeshadow Palette",
+              "description": "Professional eyeshadow palette",
+              "price": 1999
+            },
+            {
+              "name": "Blush",
+              "description": "Cream blush",
+              "price": 599
+            },
+            {
+              "name": "Concealer",
+              "description": "Full coverage concealer",
+              "price": 799
+            },
+            {
+              "name": "Eyeliner",
+              "description": "Liquid eyeliner",
+              "price": 499
+            },
+            {
+              "name": "Bronzer",
+              "description": "Matte bronzing powder",
+              "price": 699
+            },
+            {
+              "name": "Highlighter",
+              "description": "Cream highlighter",
+              "price": 599
+            },
+            {
+              "name": "Setting Powder",
+              "description": "Translucent setting powder",
+              "price": 899
+            }
+          ]
+        },
+        {
+          "name": "Hair Care",
+          "description": "Hair care products",
+          "products": [
+            {
+              "name": "Shampoo",
+              "description": "Nourishing shampoo",
+              "price": 699
+            },
+            {
+              "name": "Conditioner",
+              "description": "Hydrating conditioner",
+              "price": 699
+            },
+            {
+              "name": "Hair Oil",
+              "description": "Argan hair oil",
+              "price": 999
+            },
+            {
+              "name": "Hair Mask",
+              "description": "Deep conditioning mask",
+              "price": 799
+            },
+            {
+              "name": "Hair Spray",
+              "description": "Strong hold hair spray",
+              "price": 599
+            },
+            {
+              "name": "Dry Shampoo",
+              "description": "Refreshing dry shampoo",
+              "price": 499
+            },
+            {
+              "name": "Hair Serum",
+              "description": "Smoothing hair serum",
+              "price": 699
+            },
+            {
+              "name": "Hair Color",
+              "description": "Permanent hair color",
+              "price": 899
+            },
+            {
+              "name": "Hair Brush",
+              "description": "Detangling hair brush",
+              "price": 399
+            },
+            {
+              "name": "Hair Dryer",
+              "description": "Professional hair dryer",
+              "price": 1999
+            }
+          ]
+        },
+        {
+          "name": "Fragrances",
+          "description": "Perfumes and body sprays",
+          "products": [
+            {
+              "name": "Women's Perfume",
+              "description": "Floral women's perfume",
+              "price": 3999
+            },
+            {
+              "name": "Men's Cologne",
+              "description": "Woody men's cologne",
+              "price": 3499
+            },
+            {
+              "name": "Body Mist",
+              "description": "Light body mist",
+              "price": 899
+            },
+            {
+              "name": "Gift Set",
+              "description": "Perfume gift set",
+              "price": 4999
+            },
+            {
+              "name": "Roll-on Perfume",
+              "description": "Portable roll-on perfume",
+              "price": 699
+            },
+            {
+              "name": "Room Spray",
+              "description": "Fresh room spray",
+              "price": 599
+            },
+            {
+              "name": "Solid Perfume",
+              "description": "Travel-size solid perfume",
+              "price": 799
+            },
+            {
+              "name": "Linen Spray",
+              "description": "Fresh linen spray",
+              "price": 499
+            },
+            {
+              "name": "Beard Oil",
+              "description": "Scented beard oil",
+              "price": 699
+            },
+            {
+              "name": "Scented Candle",
+              "description": "Luxury scented candle",
+              "price": 1299
+            }
+          ]
+        },
+        {
+          "name": "Personal Care",
+          "description": "Personal hygiene products",
+          "products": [
+            {
+              "name": "Body Wash",
+              "description": "Moisturizing body wash",
+              "price": 499
+            },
+            {
+              "name": "Hand Cream",
+              "description": "Nourishing hand cream",
+              "price": 399
+            },
+            {
+              "name": "Deodorant",
+              "description": "Long-lasting deodorant",
+              "price": 299
+            },
+            {
+              "name": "Body Scrub",
+              "description": "Exfoliating body scrub",
+              "price": 599
+            },
+            {
+              "name": "Shower Gel",
+              "description": "Refreshing shower gel",
+              "price": 449
+            },
+            {
+              "name": "Body Butter",
+              "description": "Rich body butter",
+              "price": 699
+            },
+            {
+              "name": "Hand Soap",
+              "description": "Antibacterial hand soap",
+              "price": 249
+            },
+            {
+              "name": "Foot Cream",
+              "description": "Moisturizing foot cream",
+              "price": 399
+            },
+            {
+              "name": "Body Oil",
+              "description": "Nourishing body oil",
+              "price": 599
+            },
+            {
+              "name": "Bath Salt",
+              "description": "Relaxing bath salt",
+              "price": 449
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Books & Stationery",
+      "description": "Books, office supplies and stationery",
+      "sub_categories": [
+        {
+          "name": "Books",
+          "description": "Fiction and non-fiction books",
+          "products": [
+            {
+              "name": "Novel",
+              "description": "Bestselling fiction novel",
+              "price": 499
+            },
+            {
+              "name": "Self-Help Book",
+              "description": "Personal development book",
+              "price": 399
+            },
+            {
+              "name": "Cookbook",
+              "description": "Recipe collection book",
+              "price": 699
+            },
+            {
+              "name": "Business Book",
+              "description": "Business strategy book",
+              "price": 599
+            },
+            {
+              "name": "Children's Book",
+              "description": "Illustrated children's book",
+              "price": 299
+            },
+            {
+              "name": "Biography",
+              "description": "Celebrity biography",
+              "price": 449
+            },
+            {
+              "name": "Science Book",
+              "description": "Popular science book",
+              "price": 549
+            },
+            {
+              "name": "History Book",
+              "description": "World history book",
+              "price": 599
+            },
+            {
+              "name": "Poetry Book",
+              "description": "Contemporary poetry collection",
+              "price": 349
+            },
+            {
+              "name": "Art Book",
+              "description": "Art history book",
+              "price": 799
+            }
+          ]
+        },
+        {
+          "name": "Office Supplies",
+          "description": "Essential office supplies",
+          "products": [
+            {
+              "name": "Printer Paper",
+              "description": "A4 size printer paper",
+              "price": 299
+            },
+            {
+              "name": "Stapler",
+              "description": "Heavy-duty stapler",
+              "price": 199
+            },
+            {
+              "name": "Staples",
+              "description": "Box of staples",
+              "price": 99
+            },
+            {
+              "name": "File Folders",
+              "description": "Pack of file folders",
+              "price": 149
+            },
+            {
+              "name": "Sticky Notes",
+              "description": "Pack of sticky notes",
+              "price": 79
+            },
+            {
+              "name": "Paper Clips",
+              "description": "Box of paper clips",
+              "price": 49
+            },
+            {
+              "name": "Tape Dispenser",
+              "description": "Desktop tape dispenser",
+              "price": 129
+            },
+            {
+              "name": "Scissors",
+              "description": "Office scissors",
+              "price": 149
+            },
+            {
+              "name": "Markers",
+              "description": "Pack of markers",
+              "price": 199
+            },
+            {
+              "name": "Calculator",
+              "description": "Desktop calculator",
+              "price": 299
+            }
+          ]
+        },
+        {
+          "name": "Writing Supplies",
+          "description": "Pens, pencils and writing accessories",
+          "products": [
+            {
+              "name": "Ballpoint Pen",
+              "description": "Pack of ballpoint pens",
+              "price": 149
+            },
+            {
+              "name": "Fountain Pen",
+              "description": "Premium fountain pen",
+              "price": 999
+            },
+            {
+              "name": "Pencil Set",
+              "description": "Pack of graphite pencils",
+              "price": 99
+            },
+            {
+              "name": "Highlighters",
+              "description": "Pack of highlighters",
+              "price": 129
+            },
+            {
+              "name": "Gel Pens",
+              "description": "Pack of gel pens",
+              "price": 199
+            },
+            {
+              "name": "Mechanical Pencil",
+              "description": "Refillable mechanical pencil",
+              "price": 149
+            },
+            {
+              "name": "Calligraphy Pen",
+              "description": "Calligraphy pen set",
+              "price": 299
+            },
+            {
+              "name": "Whiteboard Markers",
+              "description": "Pack of whiteboard markers",
+              "price": 179
+            },
+            {
+              "name": "Pencil Case",
+              "description": "Zippered pencil case",
+              "price": 199
+            },
+            {
+              "name": "Pen Stand",
+              "description": "Desktop pen stand",
+              "price": 249
+            }
+          ]
+        },
+        {
+          "name": "Notebooks",
+          "description": "Various types of notebooks",
+          "products": [
+            {
+              "name": "Spiral Notebook",
+              "description": "College ruled spiral notebook",
+              "price": 199
+            },
+            {
+              "name": "Journal",
+              "description": "Hardcover journal",
+              "price": 299
+            },
+            {
+              "name": "Planner",
+              "description": "Weekly planner",
+              "price": 249
+            },
+            {
+              "name": "Sketchbook",
+              "description": "Artist sketchbook",
+              "price": 349
+            },
+            {
+              "name": "Composition Book",
+              "description": "Classic composition book",
+              "price": 149
+            },
+            {
+              "name": "Bullet Journal",
+              "description": "Dot grid bullet journal",
+              "price": 399
+            },
+            {
+              "name": "Legal Pad",
+              "description": "Legal size notepad",
+              "price": 179
+            },
+            {
+              "name": "Address Book",
+              "description": "Contact address book",
+              "price": 199
+            },
+            {
+              "name": "Recipe Book",
+              "description": "Blank recipe book",
+              "price": 249
+            },
+            {
+              "name": "Notebook Set",
+              "description": "Set of mini notebooks",
+              "price": 299
+            }
+          ]
+        },
+        {
+          "name": "Art Supplies",
+          "description": "Art and craft supplies",
+          "products": [
+            {
+              "name": "Paint Set",
+              "description": "Acrylic paint set",
+              "price": 599
+            },
+            {
+              "name": "Paint Brushes",
+              "description": "Set of paint brushes",
+              "price": 299
+            },
+            {
+              "name": "Drawing Pencils",
+              "description": "Set of drawing pencils",
+              "price": 199
+            },
+            {
+              "name": "Watercolors",
+              "description": "Watercolor paint set",
+              "price": 399
+            },
+            {
+              "name": "Canvas",
+              "description": "Stretched canvas",
+              "price": 449
+            },
+            {
+              "name": "Eraser Set",
+              "description": "Set of art erasers",
+              "price": 149
+            },
+            {
+              "name": "Palette",
+              "description": "Artist paint palette",
+              "price": 199
+            },
+            {
+              "name": "Sketch Pencils",
+              "description": "Set of sketch pencils",
+              "price": 249
+            },
+            {
+              "name": "Art Paper",
+              "description": "Pack of art paper",
+              "price": 299
+            },
+            {
+              "name": "Paint Markers",
+              "description": "Set of paint markers",
+              "price": 349
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sports & Fitness",
+      "description": "Sports equipment and fitness gear",
+      "sub_categories": [
+        {
+          "name": "Fitness Equipment",
+          "description": "Exercise and workout equipment",
+          "products": [
+            {
+              "name": "Yoga Mat",
+              "description": "Non-slip exercise mat",
+              "price": 999
+            },
+            {
+              "name": "Dumbbells",
+              "description": "Set of adjustable dumbbells",
+              "price": 2999
+            },
+            {
+              "name": "Resistance Bands",
+              "description": "Set of exercise bands",
+              "price": 499
+            },
+            {
+              "name": "Jump Rope",
+              "description": "Speed jump rope",
+              "price": 299
+            },
+            {
+              "name": "Exercise Ball",
+              "description": "Stability exercise ball",
+              "price": 799
+            },
+            {
+              "name": "Foam Roller",
+              "description": "Exercise foam roller",
+              "price": 599
+            },
+            {
+              "name": "Pull-up Bar",
+              "description": "Doorway pull-up bar",
+              "price": 899
+            },
+            {
+              "name": "Medicine Ball",
+              "description": "Weighted medicine ball",
+              "price": 699
+            },
+            {
+              "name": "Kettlebell",
+              "description": "Cast iron kettlebell",
+              "price": 1499
+            },
+            {
+              "name": "Workout Bench",
+              "description": "Adjustable exercise bench",
+              "price": 3999
+            }
+          ]
+        },
+        {
+          "name": "Sports Equipment",
+          "description": "Equipment for various sports",
+          "products": [
+            {
+              "name": "Basketball",
+              "description": "Indoor/outdoor basketball",
+              "price": 799
+            },
+            {
+              "name": "Football",
+              "description": "Professional football",
+              "price": 699
+            },
+            {
+              "name": "Tennis Racket",
+              "description": "Professional tennis racket",
+              "price": 3999
+            },
+            {
+              "name": "Tennis Balls",
+              "description": "Pack of tennis balls",
+              "price": 299
+            },
+            {
+              "name": "Cricket Bat",
+              "description": "Professional cricket bat",
+              "price": 2999
+            },
+            {
+              "name": "Cricket Ball",
+              "description": "Professional cricket ball",
+              "price": 499
+            },
+            {
+              "name": "Badminton Set",
+              "description": "Complete badminton set",
+              "price": 1499
+            },
+            {
+              "name": "Table Tennis Set",
+              "description": "Table tennis equipment set",
+              "price": 1999
+            },
+            {
+              "name": "Volleyball",
+              "description": "Indoor volleyball",
+              "price": 599
+            },
+            {
+              "name": "Baseball Bat",
+              "description": "Professional baseball bat",
+              "price": 2499
+            }
+          ]
+        },
+        {
+          "name": "Outdoor Sports",
+          "description": "Equipment for outdoor activities",
+          "products": [
+            {
+              "name": "Tent",
+              "description": "4-person camping tent",
+              "price": 4999
+            },
+            {
+              "name": "Sleeping Bag",
+              "description": "All-weather sleeping bag",
+              "price": 1999
+            },
+            {
+              "name": "Backpack",
+              "description": "Hiking backpack",
+              "price": 2499
+            },
+            {
+              "name": "Hiking Boots",
+              "description": "Waterproof hiking boots",
+              "price": 3999
+            },
+            {
+              "name": "Camping Stove",
+              "description": "Portable camping stove",
+              "price": 1499
+            },
+            {
+              "name": "Flashlight",
+              "description": "LED camping flashlight",
+              "price": 499
+            },
+            {
+              "name": "First Aid Kit",
+              "description": "Outdoor first aid kit",
+              "price": 799
+            },
+            {
+              "name": "Water Bottle",
+              "description": "Insulated water bottle",
+              "price": 699
+            },
+            {
+              "name": "Compass",
+              "description": "Professional compass",
+              "price": 399
+            },
+            {
+              "name": "Binoculars",
+              "description": "Outdoor binoculars",
+              "price": 1999
+            }
+          ]
+        },
+        {
+          "name": "Fitness Accessories",
+          "description": "Accessories for fitness activities",
+          "products": [
+            {
+              "name": "Fitness Tracker",
+              "description": "Smart fitness tracker",
+              "price": 2999
+            },
+            {
+              "name": "Sports Watch",
+              "description": "GPS sports watch",
+              "price": 4999
+            },
+            {
+              "name": "Heart Rate Monitor",
+              "description": "Chest strap heart rate monitor",
+              "price": 1999
+            },
+            {
+              "name": "Sports Bag",
+              "description": "Gym duffel bag",
+              "price": 899
+            },
+            {
+              "name": "Towel",
+              "description": "Sports towel",
+              "price": 299
+            },
+            {
+              "name": "Water Bottle",
+              "description": "Sports water bottle",
+              "price": 499
+            },
+            {
+              "name": "Headband",
+              "description": "Sweat-absorbing headband",
+              "price": 199
+            },
+            {
+              "name": "Grip Gloves",
+              "description": "Weight lifting gloves",
+              "price": 399
+            },
+            {
+              "name": "Arm Band",
+              "description": "Phone arm band",
+              "price": 299
+            },
+            {
+              "name": "Sports Socks",
+              "description": "Athletic socks pack",
+              "price": 499
+            }
+          ]
+        },
+        {
+          "name": "Team Sports",
+          "description": "Equipment for team sports",
+          "products": [
+            {
+              "name": "Soccer Ball",
+              "description": "Professional soccer ball",
+              "price": 899
+            },
+            {
+              "name": "Hockey Stick",
+              "description": "Field hockey stick",
+              "price": 2499
+            },
+            {
+              "name": "Baseball Glove",
+              "description": "Professional baseball glove",
+              "price": 1999
+            },
+            {
+              "name": "Rugby Ball",
+              "description": "Professional rugby ball",
+              "price": 799
+            },
+            {
+              "name": "Netball",
+              "description": "Professional netball",
+              "price": 599
+            },
+            {
+              "name": "Team Jerseys",
+              "description": "Set of team jerseys",
+              "price": 2999
+            },
+            {
+              "name": "Goal Posts",
+              "description": "Portable goal posts",
+              "price": 3999
+            },
+            {
+              "name": "Team Bags",
+              "description": "Set of team equipment bags",
+              "price": 1999
+            },
+            {
+              "name": "Training Cones",
+              "description": "Set of training cones",
+              "price": 499
+            },
+            {
+              "name": "Team First Aid Kit",
+              "description": "Sports team first aid kit",
+              "price": 899
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Toys & Games",
+      "description": "Toys, games and entertainment",
+      "sub_categories": [
+        {
+          "name": "Board Games",
+          "description": "Family board games",
+          "products": [
+            {
+              "name": "Chess Set",
+              "description": "Wooden chess set",
+              "price": 1499
+            },
+            {
+              "name": "Monopoly",
+              "description": "Classic Monopoly game",
+              "price": 999
+            },
+            {
+              "name": "Scrabble",
+              "description": "Word game Scrabble",
+              "price": 799
+            },
+            {
+              "name": "Risk",
+              "description": "Strategy board game",
+              "price": 899
+            },
+            {
+              "name": "Catan",
+              "description": "Settlement building game",
+              "price": 1299
+            },
+            {
+              "name": "Clue",
+              "description": "Mystery solving game",
+              "price": 699
+            },
+            {
+              "name": "Pictionary",
+              "description": "Drawing and guessing game",
+              "price": 599
+            },
+            {
+              "name": "Trivial Pursuit",
+              "description": "Trivia board game",
+              "price": 799
+            },
+            {
+              "name": "Candy Land",
+              "description": "Children's board game",
+              "price": 499
+            },
+            {
+              "name": "Battleship",
+              "description": "Naval combat game",
+              "price": 599
+            }
+          ]
+        },
+        {
+          "name": "Educational Toys",
+          "description": "Learning and educational toys",
+          "products": [
+            {
+              "name": "Building Blocks",
+              "description": "Wooden building blocks set",
+              "price": 799
+            },
+            {
+              "name": "Science Kit",
+              "description": "Kids science experiment kit",
+              "price": 999
+            },
+            {
+              "name": "Puzzle Set",
+              "description": "Educational puzzle set",
+              "price": 599
+            },
+            {
+              "name": "Math Games",
+              "description": "Mathematics learning games",
+              "price": 699
+            },
+            {
+              "name": "Art Set",
+              "description": "Children's art set",
+              "price": 499
+            },
+            {
+              "name": "Musical Instruments",
+              "description": "Kids musical instrument set",
+              "price": 899
+            },
+            {
+              "name": "Language Cards",
+              "description": "Language learning cards",
+              "price": 399
+            },
+            {
+              "name": "Robot Kit",
+              "description": "Educational robot building kit",
+              "price": 1299
+            },
+            {
+              "name": "Geography Map",
+              "description": "Interactive world map",
+              "price": 699
+            },
+            {
+              "name": "Microscope",
+              "description": "Kids microscope set",
+              "price": 999
+            }
+          ]
+        },
+        {
+          "name": "Outdoor Toys",
+          "description": "Toys for outdoor play",
+          "products": [
+            {
+              "name": "Frisbee",
+              "description": "Flying disc",
+              "price": 299
+            },
+            {
+              "name": "Jump Rope",
+              "description": "Kids jump rope",
+              "price": 199
+            },
+            {
+              "name": "Bicycle",
+              "description": "Children's bicycle",
+              "price": 3999
+            },
+            {
+              "name": "Soccer Ball",
+              "description": "Kids soccer ball",
+              "price": 499
+            },
+            {
+              "name": "Basketball Hoop",
+              "description": "Portable basketball hoop",
+              "price": 1499
+            },
+            {
+              "name": "Water Gun",
+              "description": "Super soaker water gun",
+              "price": 399
+            },
+            {
+              "name": "Kite",
+              "description": "Colorful flying kite",
+              "price": 299
+            },
+            {
+              "name": "Play Tent",
+              "description": "Kids play tent",
+              "price": 799
+            },
+            {
+              "name": "Sand Toys",
+              "description": "Beach sand toy set",
+              "price": 499
+            },
+            {
+              "name": "Scooter",
+              "description": "Kids kick scooter",
+              "price": 999
+            }
+          ]
+        },
+        {
+          "name": "Electronic Games",
+          "description": "Electronic and video games",
+          "products": [
+            {
+              "name": "Video Game Console",
+              "description": "Gaming console",
+              "price": 29999
+            },
+            {
+              "name": "Game Controller",
+              "description": "Wireless game controller",
+              "price": 2999
+            },
+            {
+              "name": "VR Headset",
+              "description": "Virtual reality headset",
+              "price": 39999
+            },
+            {
+              "name": "Gaming Mouse",
+              "description": "Professional gaming mouse",
+              "price": 1999
+            },
+            {
+              "name": "Gaming Keyboard",
+              "description": "Mechanical gaming keyboard",
+              "price": 4999
+            },
+            {
+              "name": "Gaming Headset",
+              "description": "Wireless gaming headset",
+              "price": 3999
+            },
+            {
+              "name": "Gaming Chair",
+              "description": "Ergonomic gaming chair",
+              "price": 9999
+            },
+            {
+              "name": "Gaming Monitor",
+              "description": "High refresh rate monitor",
+              "price": 24999
+            },
+            {
+              "name": "Gaming Mousepad",
+              "description": "Large gaming mousepad",
+              "price": 999
+            },
+            {
+              "name": "Gaming Speakers",
+              "description": "Surround sound speakers",
+              "price": 4999
+            }
+          ]
+        },
+        {
+          "name": "Arts & Crafts",
+          "description": "Creative arts and crafts supplies",
+          "products": [
+            {
+              "name": "Paint Set",
+              "description": "Kids paint set",
+              "price": 499
+            },
+            {
+              "name": "Craft Kit",
+              "description": "DIY craft kit",
+              "price": 699
+            },
+            {
+              "name": "Play Doh",
+              "description": "Modeling clay set",
+              "price": 399
+            },
+            {
+              "name": "Bead Set",
+              "description": "Jewelry making beads",
+              "price": 299
+            },
+            {
+              "name": "Drawing Set",
+              "description": "Art drawing set",
+              "price": 599
+            },
+            {
+              "name": "Origami Paper",
+              "description": "Colorful origami paper",
+              "price": 199
+            },
+            {
+              "name": "Glitter Set",
+              "description": "Craft glitter set",
+              "price": 249
+            },
+            {
+              "name": "Sticker Book",
+              "description": "Decorative sticker book",
+              "price": 299
+            },
+            {
+              "name": "Craft Scissors",
+              "description": "Decorative craft scissors",
+              "price": 199
+            },
+            {
+              "name": "Glue Set",
+              "description": "Craft glue set",
+              "price": 249
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pet Supplies",
+      "description": "Pet care and accessories",
+      "sub_categories": [
+        {
+          "name": "Dog Supplies",
+          "description": "Dog care and accessories",
+          "products": [
+            {
+              "name": "Dog Food",
+              "description": "Premium dog food",
+              "price": 999
+            },
+            {
+              "name": "Dog Leash",
+              "description": "Durable dog leash",
+              "price": 499
+            },
+            {
+              "name": "Dog Collar",
+              "description": "Adjustable dog collar",
+              "price": 299
+            },
+            {
+              "name": "Dog Bed",
+              "description": "Comfortable dog bed",
+              "price": 1499
+            },
+            {
+              "name": "Dog Toys",
+              "description": "Set of dog toys",
+              "price": 399
+            },
+            {
+              "name": "Dog Bowl",
+              "description": "Stainless steel dog bowl",
+              "price": 299
+            },
+            {
+              "name": "Dog Shampoo",
+              "description": "Gentle dog shampoo",
+              "price": 199
+            },
+            {
+              "name": "Dog Brush",
+              "description": "Grooming brush",
+              "price": 249
+            },
+            {
+              "name": "Dog Treats",
+              "description": "Healthy dog treats",
+              "price": 299
+            },
+            {
+              "name": "Dog Crate",
+              "description": "Portable dog crate",
+              "price": 1999
+            }
+          ]
+        },
+        {
+          "name": "Cat Supplies",
+          "description": "Cat care and accessories",
+          "products": [
+            {
+              "name": "Cat Food",
+              "description": "Premium cat food",
+              "price": 799
+            },
+            {
+              "name": "Cat Litter",
+              "description": "Clumping cat litter",
+              "price": 499
+            },
+            {
+              "name": "Cat Bed",
+              "description": "Cozy cat bed",
+              "price": 999
+            },
+            {
+              "name": "Cat Toys",
+              "description": "Interactive cat toys",
+              "price": 299
+            },
+            {
+              "name": "Cat Scratching Post",
+              "description": "Multi-level scratching post",
+              "price": 1499
+            },
+            {
+              "name": "Cat Bowl",
+              "description": "Ceramic cat bowl set",
+              "price": 399
+            },
+            {
+              "name": "Cat Carrier",
+              "description": "Portable cat carrier",
+              "price": 799
+            },
+            {
+              "name": "Cat Brush",
+              "description": "Grooming brush",
+              "price": 249
+            },
+            {
+              "name": "Cat Treats",
+              "description": "Healthy cat treats",
+              "price": 199
+            },
+            {
+              "name": "Cat Tree",
+              "description": "Multi-level cat tree",
+              "price": 2499
+            }
+          ]
+        },
+        {
+          "name": "Pet Care",
+          "description": "General pet care products",
+          "products": [
+            {
+              "name": "Pet First Aid Kit",
+              "description": "Complete first aid kit",
+              "price": 599
+            },
+            {
+              "name": "Pet Vitamins",
+              "description": "Multivitamin supplements",
+              "price": 499
+            },
+            {
+              "name": "Flea Treatment",
+              "description": "Monthly flea treatment",
+              "price": 699
+            },
+            {
+              "name": "Pet Grooming Kit",
+              "description": "Complete grooming set",
+              "price": 899
+            },
+            {
+              "name": "Pet Dental Care",
+              "description": "Dental cleaning kit",
+              "price": 399
+            },
+            {
+              "name": "Pet Odor Eliminator",
+              "description": "Spray odor eliminator",
+              "price": 299
+            },
+            {
+              "name": "Pet Wipes",
+              "description": "Cleaning wipes",
+              "price": 199
+            },
+            {
+              "name": "Pet Nail Clippers",
+              "description": "Safe nail clippers",
+              "price": 249
+            },
+            {
+              "name": "Pet Shampoo",
+              "description": "Gentle pet shampoo",
+              "price": 299
+            },
+            {
+              "name": "Pet Towel",
+              "description": "Absorbent pet towel",
+              "price": 199
+            }
+          ]
+        },
+        {
+          "name": "Pet Accessories",
+          "description": "Pet accessories and clothing",
+          "products": [
+            {
+              "name": "Pet Clothing",
+              "description": "Stylish pet sweater",
+              "price": 599
+            },
+            {
+              "name": "Pet Harness",
+              "description": "Comfortable pet harness",
+              "price": 499
+            },
+            {
+              "name": "Pet ID Tag",
+              "description": "Custom pet ID tag",
+              "price": 199
+            },
+            {
+              "name": "Pet Backpack",
+              "description": "Carrier backpack",
+              "price": 799
+            },
+            {
+              "name": "Pet Boots",
+              "description": "Protective pet boots",
+              "price": 699
+            },
+            {
+              "name": "Pet Bandana",
+              "description": "Decorative bandana",
+              "price": 149
+            },
+            {
+              "name": "Pet Sunglasses",
+              "description": "UV protection glasses",
+              "price": 299
+            },
+            {
+              "name": "Pet Hat",
+              "description": "Stylish pet hat",
+              "price": 199
+            },
+            {
+              "name": "Pet Raincoat",
+              "description": "Waterproof raincoat",
+              "price": 499
+            },
+            {
+              "name": "Pet Collar Charm",
+              "description": "Decorative collar charm",
+              "price": 149
+            }
+          ]
+        },
+        {
+          "name": "Small Pets",
+          "description": "Supplies for small pets",
+          "products": [
+            {
+              "name": "Hamster Cage",
+              "description": "Complete hamster habitat",
+              "price": 999
+            },
+            {
+              "name": "Rabbit Hutch",
+              "description": "Spacious rabbit hutch",
+              "price": 1499
+            },
+            {
+              "name": "Bird Cage",
+              "description": "Large bird cage",
+              "price": 1299
+            },
+            {
+              "name": "Fish Tank",
+              "description": "Aquarium starter kit",
+              "price": 1999
+            },
+            {
+              "name": "Guinea Pig Cage",
+              "description": "Comfortable guinea pig cage",
+              "price": 899
+            },
+            {
+              "name": "Pet Bedding",
+              "description": "Small pet bedding",
+              "price": 299
+            },
+            {
+              "name": "Pet Food",
+              "description": "Small pet food",
+              "price": 199
+            },
+            {
+              "name": "Pet Toys",
+              "description": "Small pet toys",
+              "price": 149
+            },
+            {
+              "name": "Pet Water Bottle",
+              "description": "Small pet water bottle",
+              "price": 199
+            },
+            {
+              "name": "Pet Food Bowl",
+              "description": "Small pet food bowl",
+              "price": 149
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Automotive",
+      "description": "Automotive parts and accessories",
+      "sub_categories": [
+        {
+          "name": "Car Parts",
+          "description": "Essential car parts",
+          "products": [
+            {
+              "name": "Car Battery",
+              "description": "High-performance car battery",
+              "price": 4999
+            },
+            {
+              "name": "Brake Pads",
+              "description": "Front brake pad set",
+              "price": 1999
+            },
+            {
+              "name": "Oil Filter",
+              "description": "Premium oil filter",
+              "price": 499
+            },
+            {
+              "name": "Air Filter",
+              "description": "Engine air filter",
+              "price": 699
+            },
+            {
+              "name": "Spark Plugs",
+              "description": "Set of spark plugs",
+              "price": 899
+            },
+            {
+              "name": "Wiper Blades",
+              "description": "Set of wiper blades",
+              "price": 599
+            },
+            {
+              "name": "Headlight Bulbs",
+              "description": "LED headlight bulbs",
+              "price": 799
+            },
+            {
+              "name": "Fuel Filter",
+              "description": "Engine fuel filter",
+              "price": 399
+            },
+            {
+              "name": "Timing Belt",
+              "description": "Engine timing belt",
+              "price": 1499
+            },
+            {
+              "name": "Radiator",
+              "description": "Car radiator",
+              "price": 2999
+            }
+          ]
+        },
+        {
+          "name": "Car Accessories",
+          "description": "Car accessories and add-ons",
+          "products": [
+            {
+              "name": "Car Phone Mount",
+              "description": "Universal phone holder",
+              "price": 499
+            },
+            {
+              "name": "Car Charger",
+              "description": "Fast charging car adapter",
+              "price": 699
+            },
+            {
+              "name": "Car Mat",
+              "description": "All-weather car mats",
+              "price": 899
+            },
+            {
+              "name": "Car Organizer",
+              "description": "Car storage organizer",
+              "price": 599
+            },
+            {
+              "name": "Car Air Freshener",
+              "description": "Long-lasting air freshener",
+              "price": 199
+            },
+            {
+              "name": "Car Cover",
+              "description": "Weatherproof car cover",
+              "price": 1499
+            },
+            {
+              "name": "Car Vacuum",
+              "description": "Portable car vacuum",
+              "price": 999
+            },
+            {
+              "name": "Car Camera",
+              "description": "Dash camera",
+              "price": 2999
+            },
+            {
+              "name": "Car GPS",
+              "description": "Navigation system",
+              "price": 4999
+            },
+            {
+              "name": "Car Speaker",
+              "description": "Car audio speaker",
+              "price": 1999
+            }
+          ]
+        },
+        {
+          "name": "Car Care",
+          "description": "Car cleaning and maintenance",
+          "products": [
+            {
+              "name": "Car Wash Kit",
+              "description": "Complete car washing kit",
+              "price": 999
+            },
+            {
+              "name": "Car Wax",
+              "description": "Premium car wax",
+              "price": 699
+            },
+            {
+              "name": "Car Shampoo",
+              "description": "Car wash shampoo",
+              "price": 399
+            },
+            {
+              "name": "Tire Shine",
+              "description": "Tire dressing spray",
+              "price": 299
+            },
+            {
+              "name": "Glass Cleaner",
+              "description": "Car glass cleaner",
+              "price": 199
+            },
+            {
+              "name": "Interior Cleaner",
+              "description": "Car interior cleaner",
+              "price": 299
+            },
+            {
+              "name": "Wheel Cleaner",
+              "description": "Alloy wheel cleaner",
+              "price": 399
+            },
+            {
+              "name": "Car Polish",
+              "description": "Car polishing compound",
+              "price": 499
+            },
+            {
+              "name": "Microfiber Cloth",
+              "description": "Car cleaning cloths",
+              "price": 299
+            },
+            {
+              "name": "Car Brush",
+              "description": "Car washing brush",
+              "price": 399
+            }
+          ]
+        },
+        {
+          "name": "Car Electronics",
+          "description": "Car electronic devices",
+          "products": [
+            {
+              "name": "Car Stereo",
+              "description": "Bluetooth car stereo",
+              "price": 3999
+            },
+            {
+              "name": "Car Amplifier",
+              "description": "Car audio amplifier",
+              "price": 4999
+            },
+            {
+              "name": "Car Subwoofer",
+              "description": "Car audio subwoofer",
+              "price": 2999
+            },
+            {
+              "name": "Car Alarm",
+              "description": "Car security alarm",
+              "price": 1999
+            },
+            {
+              "name": "Car Camera",
+              "description": "Rear view camera",
+              "price": 2499
+            },
+            {
+              "name": "Car GPS",
+              "description": "Portable GPS navigator",
+              "price": 3999
+            },
+            {
+              "name": "Car Charger",
+              "description": "Fast wireless charger",
+              "price": 999
+            },
+            {
+              "name": "Car Monitor",
+              "description": "Car entertainment monitor",
+              "price": 4999
+            },
+            {
+              "name": "Car Speaker",
+              "description": "Component speaker set",
+              "price": 2999
+            },
+            {
+              "name": "Car Battery Charger",
+              "description": "Smart battery charger",
+              "price": 1499
+            }
+          ]
+        },
+        {
+          "name": "Car Safety",
+          "description": "Car safety equipment",
+          "products": [
+            {
+              "name": "First Aid Kit",
+              "description": "Car first aid kit",
+              "price": 599
+            },
+            {
+              "name": "Jumper Cables",
+              "description": "Heavy duty jumper cables",
+              "price": 799
+            },
+            {
+              "name": "Car Fire Extinguisher",
+              "description": "Vehicle fire extinguisher",
+              "price": 899
+            },
+            {
+              "name": "Safety Triangle",
+              "description": "Emergency warning triangle",
+              "price": 299
+            },
+            {
+              "name": "Tire Repair Kit",
+              "description": "Emergency tire repair kit",
+              "price": 499
+            },
+            {
+              "name": "Car Escape Tool",
+              "description": "Emergency escape tool",
+              "price": 399
+            },
+            {
+              "name": "Car Jack",
+              "description": "Hydraulic car jack",
+              "price": 999
+            },
+            {
+              "name": "Car Flashlight",
+              "description": "Emergency LED flashlight",
+              "price": 299
+            },
+            {
+              "name": "Car Seat Belt Cutter",
+              "description": "Emergency seat belt cutter",
+              "price": 199
+            },
+            {
+              "name": "Car Reflective Vest",
+              "description": "Safety reflective vest",
+              "price": 249
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Musical Instruments",
+      "description": "Musical instruments and accessories",
+      "sub_categories": [
+        {
+          "name": "String Instruments",
+          "description": "Guitars, violins and other string instruments",
+          "products": [
+            {
+              "name": "Acoustic Guitar",
+              "description": "Classic acoustic guitar",
+              "price": 9999
+            },
+            {
+              "name": "Electric Guitar",
+              "description": "Professional electric guitar",
+              "price": 14999
+            },
+            {
+              "name": "Violin",
+              "description": "Student violin",
+              "price": 7999
+            },
+            {
+              "name": "Bass Guitar",
+              "description": "Electric bass guitar",
+              "price": 12999
+            },
+            {
+              "name": "Ukulele",
+              "description": "Soprano ukulele",
+              "price": 2999
+            },
+            {
+              "name": "Guitar Strings",
+              "description": "Set of guitar strings",
+              "price": 499
+            },
+            {
+              "name": "Violin Bow",
+              "description": "Professional violin bow",
+              "price": 1999
+            },
+            {
+              "name": "Guitar Pick",
+              "description": "Set of guitar picks",
+              "price": 199
+            },
+            {
+              "name": "Guitar Strap",
+              "description": "Leather guitar strap",
+              "price": 399
+            },
+            {
+              "name": "Guitar Case",
+              "description": "Hard shell guitar case",
+              "price": 1499
+            }
+          ]
+        },
+        {
+          "name": "Percussion Instruments",
+          "description": "Drums and percussion instruments",
+          "products": [
+            {
+              "name": "Drum Kit",
+              "description": "Complete drum set",
+              "price": 29999
+            },
+            {
+              "name": "Snare Drum",
+              "description": "Professional snare drum",
+              "price": 4999
+            },
+            {
+              "name": "Cymbals",
+              "description": "Set of cymbals",
+              "price": 7999
+            },
+            {
+              "name": "Djembe",
+              "description": "African hand drum",
+              "price": 1999
+            },
+            {
+              "name": "Tambourine",
+              "description": "Professional tambourine",
+              "price": 699
+            },
+            {
+              "name": "Drum Sticks",
+              "description": "Set of drum sticks",
+              "price": 299
+            },
+            {
+              "name": "Drum Throne",
+              "description": "Adjustable drum throne",
+              "price": 999
+            },
+            {
+              "name": "Drum Pedal",
+              "description": "Bass drum pedal",
+              "price": 1499
+            },
+            {
+              "name": "Drum Practice Pad",
+              "description": "Silent practice pad",
+              "price": 499
+            },
+            {
+              "name": "Drum Hardware",
+              "description": "Drum hardware set",
+              "price": 1999
+            }
+          ]
+        },
+        {
+          "name": "Wind Instruments",
+          "description": "Flutes, clarinets and other wind instruments",
+          "products": [
+            {
+              "name": "Flute",
+              "description": "Student flute",
+              "price": 8999
+            },
+            {
+              "name": "Clarinet",
+              "description": "B flat clarinet",
+              "price": 7999
+            },
+            {
+              "name": "Saxophone",
+              "description": "Alto saxophone",
+              "price": 19999
+            },
+            {
+              "name": "Trumpet",
+              "description": "B flat trumpet",
+              "price": 12999
+            },
+            {
+              "name": "Recorder",
+              "description": "Soprano recorder",
+              "price": 999
+            },
+            {
+              "name": "Reeds",
+              "description": "Box of clarinet reeds",
+              "price": 299
+            },
+            {
+              "name": "Mouthpiece",
+              "description": "Saxophone mouthpiece",
+              "price": 999
+            },
+            {
+              "name": "Cleaning Kit",
+              "description": "Instrument cleaning kit",
+              "price": 499
+            },
+            {
+              "name": "Case",
+              "description": "Instrument case",
+              "price": 799
+            },
+            {
+              "name": "Stand",
+              "description": "Instrument stand",
+              "price": 399
+            }
+          ]
+        },
+        {
+          "name": "Keyboard Instruments",
+          "description": "Pianos, keyboards and synthesizers",
+          "products": [
+            {
+              "name": "Digital Piano",
+              "description": "88-key digital piano",
+              "price": 29999
+            },
+            {
+              "name": "Keyboard",
+              "description": "61-key keyboard",
+              "price": 9999
+            },
+            {
+              "name": "Synthesizer",
+              "description": "Professional synthesizer",
+              "price": 19999
+            },
+            {
+              "name": "MIDI Controller",
+              "description": "USB MIDI controller",
+              "price": 4999
+            },
+            {
+              "name": "Piano Bench",
+              "description": "Adjustable piano bench",
+              "price": 1499
+            },
+            {
+              "name": "Piano Stand",
+              "description": "Keyboard stand",
+              "price": 999
+            },
+            {
+              "name": "Sustain Pedal",
+              "description": "Piano sustain pedal",
+              "price": 499
+            },
+            {
+              "name": "Piano Books",
+              "description": "Piano lesson books",
+              "price": 299
+            },
+            {
+              "name": "Keyboard Case",
+              "description": "Keyboard carrying case",
+              "price": 799
+            },
+            {
+              "name": "Piano Tuner",
+              "description": "Digital piano tuner",
+              "price": 599
+            }
+          ]
+        },
+        {
+          "name": "Accessories",
+          "description": "Musical instrument accessories",
+          "products": [
+            {
+              "name": "Metronome",
+              "description": "Digital metronome",
+              "price": 999
+            },
+            {
+              "name": "Tuner",
+              "description": "Clip-on tuner",
+              "price": 699
+            },
+            {
+              "name": "Music Stand",
+              "description": "Adjustable music stand",
+              "price": 499
+            },
+            {
+              "name": "Instrument Stand",
+              "description": "Universal instrument stand",
+              "price": 399
+            },
+            {
+              "name": "Sheet Music",
+              "description": "Popular sheet music book",
+              "price": 299
+            },
+            {
+              "name": "Capo",
+              "description": "Guitar capo",
+              "price": 199
+            },
+            {
+              "name": "Strap",
+              "description": "Instrument strap",
+              "price": 299
+            },
+            {
+              "name": "Picks",
+              "description": "Set of instrument picks",
+              "price": 149
+            },
+            {
+              "name": "Strings",
+              "description": "Set of instrument strings",
+              "price": 399
+            },
+            {
+              "name": "Case",
+              "description": "Instrument case",
+              "price": 799
             }
           ]
         }
