@@ -1,0 +1,1684 @@
+{
+  "categories": [
+    {
+      "name": "Fruits & Vegetables",
+      "sub_categories": [
+        {
+          "name": "Fresh Fruits",
+          "products": [
+            {
+              "name": "Apple - Fuji",
+              "description": "Crisp and juicy Fuji apples, perfect for snacking",
+              "price": 140
+            },
+            {
+              "name": "Banana - Cavendish",
+              "description": "Sweet and creamy Cavendish bananas",
+              "price": 60
+            },
+            {
+              "name": "Orange - Valencia",
+              "description": "Juicy and sweet Valencia oranges",
+              "price": 80
+            },
+            {
+              "name": "Mango - Alphonso",
+              "description": "Premium Alphonso mangoes, known as the king of fruits",
+              "price": 1200
+            },
+            {
+              "name": "Pomegranate",
+              "description": "Fresh and juicy pomegranates with ruby-red seeds",
+              "price": 180
+            },
+            {
+              "name": "Grapes - Green",
+              "description": "Sweet and seedless green grapes",
+              "price": 160
+            },
+            {
+              "name": "Watermelon",
+              "description": "Sweet and refreshing watermelon",
+              "price": 40
+            },
+            {
+              "name": "Pineapple",
+              "description": "Sweet and tangy fresh pineapple",
+              "price": 100
+            },
+            {
+              "name": "Kiwi",
+              "description": "Tangy and nutritious kiwi fruits",
+              "price": 120
+            },
+            {
+              "name": "Strawberry",
+              "description": "Sweet and juicy strawberries",
+              "price": 200
+            }
+          ]
+        },
+        {
+          "name": "Fresh Vegetables",
+          "products": [
+            {
+              "name": "Tomato",
+              "description": "Fresh and ripe tomatoes",
+              "price": 40
+            },
+            {
+              "name": "Potato",
+              "description": "Fresh and clean potatoes",
+              "price": 30
+            },
+            {
+              "name": "Onion",
+              "description": "Fresh white onions",
+              "price": 35
+            },
+            {
+              "name": "Capsicum",
+              "description": "Fresh green capsicums",
+              "price": 60
+            },
+            {
+              "name": "Carrot",
+              "description": "Fresh and crunchy carrots",
+              "price": 45
+            },
+            {
+              "name": "Cucumber",
+              "description": "Fresh and crisp cucumbers",
+              "price": 25
+            },
+            {
+              "name": "Spinach",
+              "description": "Fresh and nutritious spinach leaves",
+              "price": 40
+            },
+            {
+              "name": "Brinjal",
+              "description": "Fresh purple brinjals",
+              "price": 50
+            },
+            {
+              "name": "Cauliflower",
+              "description": "Fresh and clean cauliflower",
+              "price": 55
+            },
+            {
+              "name": "Green Peas",
+              "description": "Fresh and sweet green peas",
+              "price": 70
+            }
+          ]
+        },
+        {
+          "name": "Organic Produce",
+          "products": [
+            {
+              "name": "Organic Apples",
+              "description": "Certified organic Fuji apples",
+              "price": 200
+            },
+            {
+              "name": "Organic Tomatoes",
+              "description": "Certified organic tomatoes",
+              "price": 80
+            },
+            {
+              "name": "Organic Carrots",
+              "description": "Certified organic carrots",
+              "price": 90
+            },
+            {
+              "name": "Organic Spinach",
+              "description": "Certified organic spinach",
+              "price": 70
+            },
+            {
+              "name": "Organic Bell Peppers",
+              "description": "Certified organic bell peppers",
+              "price": 120
+            },
+            {
+              "name": "Organic Broccoli",
+              "description": "Certified organic broccoli",
+              "price": 150
+            },
+            {
+              "name": "Organic Sweet Potatoes",
+              "description": "Certified organic sweet potatoes",
+              "price": 100
+            },
+            {
+              "name": "Organic Kale",
+              "description": "Certified organic kale",
+              "price": 130
+            },
+            {
+              "name": "Organic Mushrooms",
+              "description": "Certified organic mushrooms",
+              "price": 160
+            },
+            {
+              "name": "Organic Zucchini",
+              "description": "Certified organic zucchini",
+              "price": 110
+            }
+          ]
+        },
+        {
+          "name": "Exotic Fruits",
+          "products": [
+            {
+              "name": "Dragon Fruit",
+              "description": "Exotic dragon fruit with white flesh",
+              "price": 300
+            },
+            {
+              "name": "Blueberries",
+              "description": "Fresh and sweet blueberries",
+              "price": 400
+            },
+            {
+              "name": "Raspberries",
+              "description": "Fresh and tangy raspberries",
+              "price": 350
+            },
+            {
+              "name": "Blackberries",
+              "description": "Fresh and juicy blackberries",
+              "price": 380
+            },
+            {
+              "name": "Passion Fruit",
+              "description": "Exotic passion fruit with tangy seeds",
+              "price": 250
+            },
+            {
+              "name": "Guava",
+              "description": "Fresh and sweet guava",
+              "price": 120
+            },
+            {
+              "name": "Lychee",
+              "description": "Sweet and juicy lychee",
+              "price": 280
+            },
+            {
+              "name": "Rambutan",
+              "description": "Exotic rambutan with sweet flesh",
+              "price": 320
+            },
+            {
+              "name": "Mangosteen",
+              "description": "Sweet and tangy mangosteen",
+              "price": 400
+            },
+            {
+              "name": "Longan",
+              "description": "Sweet and refreshing longan",
+              "price": 350
+            }
+          ]
+        },
+        {
+          "name": "Herbs & Greens",
+          "products": [
+            {
+              "name": "Fresh Basil",
+              "description": "Aromatic fresh basil leaves",
+              "price": 40
+            },
+            {
+              "name": "Mint Leaves",
+              "description": "Fresh mint leaves",
+              "price": 30
+            },
+            {
+              "name": "Coriander",
+              "description": "Fresh coriander leaves",
+              "price": 25
+            },
+            {
+              "name": "Curry Leaves",
+              "description": "Fresh curry leaves",
+              "price": 20
+            },
+            {
+              "name": "Lettuce",
+              "description": "Fresh and crisp lettuce",
+              "price": 45
+            },
+            {
+              "name": "Microgreens Mix",
+              "description": "Assorted fresh microgreens",
+              "price": 120
+            },
+            {
+              "name": "Rosemary",
+              "description": "Fresh rosemary sprigs",
+              "price": 50
+            },
+            {
+              "name": "Thyme",
+              "description": "Fresh thyme sprigs",
+              "price": 45
+            },
+            {
+              "name": "Oregano",
+              "description": "Fresh oregano leaves",
+              "price": 40
+            },
+            {
+              "name": "Parsley",
+              "description": "Fresh parsley leaves",
+              "price": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dairy & Eggs",
+      "sub_categories": [
+        {
+          "name": "Milk & Milk Products",
+          "products": [
+            {
+              "name": "Fresh Milk",
+              "description": "Farm fresh whole milk",
+              "price": 60
+            },
+            {
+              "name": "Curd",
+              "description": "Fresh homemade curd",
+              "price": 40
+            },
+            {
+              "name": "Butter",
+              "description": "Creamy unsalted butter",
+              "price": 120
+            },
+            {
+              "name": "Cheese - Mozzarella",
+              "description": "Fresh mozzarella cheese",
+              "price": 200
+            },
+            {
+              "name": "Paneer",
+              "description": "Fresh homemade paneer",
+              "price": 160
+            },
+            {
+              "name": "Cream",
+              "description": "Fresh whipping cream",
+              "price": 180
+            },
+            {
+              "name": "Ghee",
+              "description": "Pure cow ghee",
+              "price": 500
+            },
+            {
+              "name": "Yogurt",
+              "description": "Plain yogurt",
+              "price": 45
+            },
+            {
+              "name": "Buttermilk",
+              "description": "Fresh buttermilk",
+              "price": 30
+            },
+            {
+              "name": "Cheese - Cheddar",
+              "description": "Aged cheddar cheese",
+              "price": 250
+            }
+          ]
+        },
+        {
+          "name": "Eggs",
+          "products": [
+            {
+              "name": "Farm Fresh Eggs",
+              "description": "Farm fresh chicken eggs",
+              "price": 120
+            },
+            {
+              "name": "Organic Eggs",
+              "description": "Organic farm eggs",
+              "price": 180
+            },
+            {
+              "name": "Duck Eggs",
+              "description": "Fresh duck eggs",
+              "price": 200
+            },
+            {
+              "name": "Quail Eggs",
+              "description": "Fresh quail eggs",
+              "price": 150
+            },
+            {
+              "name": "Omega-3 Eggs",
+              "description": "Eggs enriched with omega-3",
+              "price": 160
+            },
+            {
+              "name": "Free Range Eggs",
+              "description": "Free range chicken eggs",
+              "price": 140
+            },
+            {
+              "name": "Brown Eggs",
+              "description": "Farm fresh brown eggs",
+              "price": 130
+            },
+            {
+              "name": "White Eggs",
+              "description": "Farm fresh white eggs",
+              "price": 120
+            },
+            {
+              "name": "Jumbo Eggs",
+              "description": "Extra large chicken eggs",
+              "price": 150
+            },
+            {
+              "name": "Century Eggs",
+              "description": "Traditional preserved eggs",
+              "price": 300
+            }
+          ]
+        },
+        {
+          "name": "Dairy Alternatives",
+          "products": [
+            {
+              "name": "Soy Milk",
+              "description": "Plant-based soy milk",
+              "price": 80
+            },
+            {
+              "name": "Almond Milk",
+              "description": "Plant-based almond milk",
+              "price": 120
+            },
+            {
+              "name": "Coconut Milk",
+              "description": "Fresh coconut milk",
+              "price": 100
+            },
+            {
+              "name": "Oat Milk",
+              "description": "Plant-based oat milk",
+              "price": 140
+            },
+            {
+              "name": "Cashew Milk",
+              "description": "Plant-based cashew milk",
+              "price": 160
+            },
+            {
+              "name": "Rice Milk",
+              "description": "Plant-based rice milk",
+              "price": 90
+            },
+            {
+              "name": "Hemp Milk",
+              "description": "Plant-based hemp milk",
+              "price": 180
+            },
+            {
+              "name": "Vegan Cheese",
+              "description": "Plant-based cheese alternative",
+              "price": 250
+            },
+            {
+              "name": "Vegan Butter",
+              "description": "Plant-based butter alternative",
+              "price": 200
+            },
+            {
+              "name": "Vegan Yogurt",
+              "description": "Plant-based yogurt alternative",
+              "price": 120
+            }
+          ]
+        },
+        {
+          "name": "Dairy Snacks",
+          "products": [
+            {
+              "name": "Cheese Sticks",
+              "description": "Crispy cheese snacks",
+              "price": 80
+            },
+            {
+              "name": "Yogurt Drinks",
+              "description": "Flavored yogurt drinks",
+              "price": 60
+            },
+            {
+              "name": "Cheese Spread",
+              "description": "Creamy cheese spread",
+              "price": 100
+            },
+            {
+              "name": "Dairy Protein Shake",
+              "description": "High protein dairy shake",
+              "price": 150
+            },
+            {
+              "name": "Cheese Balls",
+              "description": "Crunchy cheese snacks",
+              "price": 70
+            },
+            {
+              "name": "Frozen Yogurt",
+              "description": "Frozen yogurt dessert",
+              "price": 120
+            },
+            {
+              "name": "Cheese Cubes",
+              "description": "Snackable cheese cubes",
+              "price": 90
+            },
+            {
+              "name": "Dairy Smoothie",
+              "description": "Fresh dairy smoothie",
+              "price": 110
+            },
+            {
+              "name": "Cheese Dip",
+              "description": "Creamy cheese dip",
+              "price": 85
+            },
+            {
+              "name": "Dairy Energy Bar",
+              "description": "Protein-rich dairy bar",
+              "price": 95
+            }
+          ]
+        },
+        {
+          "name": "Dairy Desserts",
+          "products": [
+            {
+              "name": "Ice Cream",
+              "description": "Creamy vanilla ice cream",
+              "price": 200
+            },
+            {
+              "name": "Custard",
+              "description": "Sweet dairy custard",
+              "price": 150
+            },
+            {
+              "name": "Pudding",
+              "description": "Creamy milk pudding",
+              "price": 180
+            },
+            {
+              "name": "Cheese Cake",
+              "description": "Classic cheese cake",
+              "price": 300
+            },
+            {
+              "name": "Milk Shake",
+              "description": "Creamy milk shake",
+              "price": 120
+            },
+            {
+              "name": "Yogurt Parfait",
+              "description": "Layered yogurt dessert",
+              "price": 160
+            },
+            {
+              "name": "Milk Fudge",
+              "description": "Traditional milk fudge",
+              "price": 250
+            },
+            {
+              "name": "Dairy Kheer",
+              "description": "Sweet rice pudding",
+              "price": 140
+            },
+            {
+              "name": "Milk Chocolate",
+              "description": "Creamy milk chocolate",
+              "price": 180
+            },
+            {
+              "name": "Dairy Smoothie Bowl",
+              "description": "Thick dairy smoothie bowl",
+              "price": 200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bakery & Breads",
+      "sub_categories": [
+        {
+          "name": "Fresh Breads",
+          "products": [
+            {
+              "name": "Whole Wheat Bread",
+              "description": "Fresh whole wheat bread",
+              "price": 60
+            },
+            {
+              "name": "White Bread",
+              "description": "Fresh white bread",
+              "price": 50
+            },
+            {
+              "name": "Multigrain Bread",
+              "description": "Healthy multigrain bread",
+              "price": 80
+            },
+            {
+              "name": "Sourdough Bread",
+              "description": "Artisanal sourdough bread",
+              "price": 120
+            },
+            {
+              "name": "Rye Bread",
+              "description": "Traditional rye bread",
+              "price": 100
+            },
+            {
+              "name": "Baguette",
+              "description": "French baguette",
+              "price": 90
+            },
+            {
+              "name": "Ciabatta",
+              "description": "Italian ciabatta bread",
+              "price": 110
+            },
+            {
+              "name": "Pita Bread",
+              "description": "Fresh pita bread",
+              "price": 70
+            },
+            {
+              "name": "Naan",
+              "description": "Fresh Indian naan",
+              "price": 40
+            },
+            {
+              "name": "Focaccia",
+              "description": "Italian focaccia bread",
+              "price": 130
+            }
+          ]
+        },
+        {
+          "name": "Pastries",
+          "products": [
+            {
+              "name": "Croissant",
+              "description": "Buttery French croissant",
+              "price": 80
+            },
+            {
+              "name": "Danish Pastry",
+              "description": "Sweet Danish pastry",
+              "price": 90
+            },
+            {
+              "name": "Chocolate Muffin",
+              "description": "Rich chocolate muffin",
+              "price": 70
+            },
+            {
+              "name": "Blueberry Muffin",
+              "description": "Fresh blueberry muffin",
+              "price": 75
+            },
+            {
+              "name": "Apple Turnover",
+              "description": "Sweet apple turnover",
+              "price": 85
+            },
+            {
+              "name": "Cheese Danish",
+              "description": "Creamy cheese Danish",
+              "price": 95
+            },
+            {
+              "name": "Chocolate Croissant",
+              "description": "Chocolate filled croissant",
+              "price": 100
+            },
+            {
+              "name": "Cinnamon Roll",
+              "description": "Sweet cinnamon roll",
+              "price": 85
+            },
+            {
+              "name": "Pain au Chocolat",
+              "description": "French chocolate pastry",
+              "price": 110
+            },
+            {
+              "name": "Fruit Danish",
+              "description": "Mixed fruit Danish",
+              "price": 95
+            }
+          ]
+        },
+        {
+          "name": "Cakes",
+          "products": [
+            {
+              "name": "Chocolate Cake",
+              "description": "Rich chocolate cake",
+              "price": 400
+            },
+            {
+              "name": "Vanilla Cake",
+              "description": "Classic vanilla cake",
+              "price": 350
+            },
+            {
+              "name": "Red Velvet Cake",
+              "description": "Decadent red velvet cake",
+              "price": 450
+            },
+            {
+              "name": "Cheese Cake",
+              "description": "New York style cheese cake",
+              "price": 500
+            },
+            {
+              "name": "Black Forest Cake",
+              "description": "Classic black forest cake",
+              "price": 550
+            },
+            {
+              "name": "Carrot Cake",
+              "description": "Spiced carrot cake",
+              "price": 380
+            },
+            {
+              "name": "Fruit Cake",
+              "description": "Rich fruit cake",
+              "price": 600
+            },
+            {
+              "name": "Coffee Cake",
+              "description": "Coffee flavored cake",
+              "price": 420
+            },
+            {
+              "name": "Pineapple Cake",
+              "description": "Fresh pineapple cake",
+              "price": 400
+            },
+            {
+              "name": "Mango Cake",
+              "description": "Fresh mango cake",
+              "price": 450
+            }
+          ]
+        },
+        {
+          "name": "Cookies",
+          "products": [
+            {
+              "name": "Chocolate Chip Cookies",
+              "description": "Classic chocolate chip cookies",
+              "price": 120
+            },
+            {
+              "name": "Oatmeal Cookies",
+              "description": "Healthy oatmeal cookies",
+              "price": 100
+            },
+            {
+              "name": "Sugar Cookies",
+              "description": "Sweet sugar cookies",
+              "price": 90
+            },
+            {
+              "name": "Macarons",
+              "description": "French macarons",
+              "price": 200
+            },
+            {
+              "name": "Shortbread Cookies",
+              "description": "Buttery shortbread cookies",
+              "price": 150
+            },
+            {
+              "name": "Ginger Cookies",
+              "description": "Spiced ginger cookies",
+              "price": 110
+            },
+            {
+              "name": "Peanut Butter Cookies",
+              "description": "Rich peanut butter cookies",
+              "price": 130
+            },
+            {
+              "name": "Almond Cookies",
+              "description": "Nutty almond cookies",
+              "price": 140
+            },
+            {
+              "name": "Double Chocolate Cookies",
+              "description": "Rich double chocolate cookies",
+              "price": 160
+            },
+            {
+              "name": "Snickerdoodles",
+              "description": "Cinnamon sugar cookies",
+              "price": 100
+            }
+          ]
+        },
+        {
+          "name": "Bread Products",
+          "products": [
+            {
+              "name": "Burger Buns",
+              "description": "Fresh burger buns",
+              "price": 60
+            },
+            {
+              "name": "Hot Dog Buns",
+              "description": "Fresh hot dog buns",
+              "price": 50
+            },
+            {
+              "name": "Garlic Bread",
+              "description": "Garlic flavored bread",
+              "price": 80
+            },
+            {
+              "name": "Bread Crumbs",
+              "description": "Fresh bread crumbs",
+              "price": 40
+            },
+            {
+              "name": "Croutons",
+              "description": "Crispy bread croutons",
+              "price": 70
+            },
+            {
+              "name": "Bread Sticks",
+              "description": "Crispy bread sticks",
+              "price": 90
+            },
+            {
+              "name": "Pizza Base",
+              "description": "Fresh pizza base",
+              "price": 100
+            },
+            {
+              "name": "Tortilla Wraps",
+              "description": "Fresh tortilla wraps",
+              "price": 80
+            },
+            {
+              "name": "English Muffins",
+              "description": "Fresh English muffins",
+              "price": 70
+            },
+            {
+              "name": "Pretzel",
+              "description": "Soft pretzel",
+              "price": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beverages",
+      "sub_categories": [
+        {
+          "name": "Hot Beverages",
+          "products": [
+            {
+              "name": "Coffee Beans",
+              "description": "Premium Arabica coffee beans",
+              "price": 800
+            },
+            {
+              "name": "Green Tea",
+              "description": "Premium Japanese green tea",
+              "price": 400
+            },
+            {
+              "name": "Black Tea",
+              "description": "Assam black tea",
+              "price": 300
+            },
+            {
+              "name": "Herbal Tea",
+              "description": "Mixed herbal tea",
+              "price": 350
+            },
+            {
+              "name": "Hot Chocolate",
+              "description": "Rich hot chocolate mix",
+              "price": 250
+            },
+            {
+              "name": "Chai Masala",
+              "description": "Indian spiced tea mix",
+              "price": 200
+            },
+            {
+              "name": "Espresso Beans",
+              "description": "Dark roast espresso beans",
+              "price": 900
+            },
+            {
+              "name": "White Tea",
+              "description": "Premium white tea",
+              "price": 500
+            },
+            {
+              "name": "Oolong Tea",
+              "description": "Traditional oolong tea",
+              "price": 450
+            },
+            {
+              "name": "Coffee Pods",
+              "description": "Single serve coffee pods",
+              "price": 600
+            }
+          ]
+        },
+        {
+          "name": "Cold Beverages",
+          "products": [
+            {
+              "name": "Cola",
+              "description": "Classic cola drink",
+              "price": 40
+            },
+            {
+              "name": "Lemonade",
+              "description": "Fresh lemonade",
+              "price": 50
+            },
+            {
+              "name": "Iced Tea",
+              "description": "Fresh brewed iced tea",
+              "price": 45
+            },
+            {
+              "name": "Orange Juice",
+              "description": "Fresh orange juice",
+              "price": 80
+            },
+            {
+              "name": "Apple Juice",
+              "description": "Fresh apple juice",
+              "price": 70
+            },
+            {
+              "name": "Grape Juice",
+              "description": "Fresh grape juice",
+              "price": 75
+            },
+            {
+              "name": "Mango Shake",
+              "description": "Fresh mango shake",
+              "price": 90
+            },
+            {
+              "name": "Watermelon Juice",
+              "description": "Fresh watermelon juice",
+              "price": 60
+            },
+            {
+              "name": "Pineapple Juice",
+              "description": "Fresh pineapple juice",
+              "price": 85
+            },
+            {
+              "name": "Mixed Fruit Juice",
+              "description": "Fresh mixed fruit juice",
+              "price": 95
+            }
+          ]
+        },
+        {
+          "name": "Energy Drinks",
+          "products": [
+            {
+              "name": "Red Bull",
+              "description": "Classic energy drink",
+              "price": 120
+            },
+            {
+              "name": "Monster Energy",
+              "description": "High energy drink",
+              "price": 150
+            },
+            {
+              "name": "Gatorade",
+              "description": "Sports energy drink",
+              "price": 80
+            },
+            {
+              "name": "Powerade",
+              "description": "Electrolyte drink",
+              "price": 85
+            },
+            {
+              "name": "Rockstar",
+              "description": "Premium energy drink",
+              "price": 130
+            },
+            {
+              "name": "5-Hour Energy",
+              "description": "Quick energy shot",
+              "price": 100
+            },
+            {
+              "name": "Bang Energy",
+              "description": "Zero calorie energy drink",
+              "price": 140
+            },
+            {
+              "name": "NOS Energy",
+              "description": "High performance energy drink",
+              "price": 160
+            },
+            {
+              "name": "AMP Energy",
+              "description": "Classic energy drink",
+              "price": 110
+            },
+            {
+              "name": "Full Throttle",
+              "description": "High octane energy drink",
+              "price": 125
+            }
+          ]
+        },
+        {
+          "name": "Water",
+          "products": [
+            {
+              "name": "Mineral Water",
+              "description": "Natural mineral water",
+              "price": 40
+            },
+            {
+              "name": "Sparkling Water",
+              "description": "Carbonated mineral water",
+              "price": 50
+            },
+            {
+              "name": "Spring Water",
+              "description": "Natural spring water",
+              "price": 45
+            },
+            {
+              "name": "Flavored Water",
+              "description": "Natural flavored water",
+              "price": 55
+            },
+            {
+              "name": "Alkaline Water",
+              "description": "pH balanced water",
+              "price": 60
+            },
+            {
+              "name": "Coconut Water",
+              "description": "Fresh coconut water",
+              "price": 70
+            },
+            {
+              "name": "Vitamin Water",
+              "description": "Enhanced vitamin water",
+              "price": 65
+            },
+            {
+              "name": "Electrolyte Water",
+              "description": "Sports electrolyte water",
+              "price": 75
+            },
+            {
+              "name": "Distilled Water",
+              "description": "Pure distilled water",
+              "price": 35
+            },
+            {
+              "name": "Artesian Water",
+              "description": "Premium artesian water",
+              "price": 80
+            }
+          ]
+        },
+        {
+          "name": "Juice Concentrates",
+          "products": [
+            {
+              "name": "Orange Concentrate",
+              "description": "Frozen orange juice concentrate",
+              "price": 200
+            },
+            {
+              "name": "Apple Concentrate",
+              "description": "Frozen apple juice concentrate",
+              "price": 180
+            },
+            {
+              "name": "Grape Concentrate",
+              "description": "Frozen grape juice concentrate",
+              "price": 220
+            },
+            {
+              "name": "Pineapple Concentrate",
+              "description": "Frozen pineapple juice concentrate",
+              "price": 240
+            },
+            {
+              "name": "Mango Concentrate",
+              "description": "Frozen mango juice concentrate",
+              "price": 260
+            },
+            {
+              "name": "Mixed Fruit Concentrate",
+              "description": "Frozen mixed fruit concentrate",
+              "price": 280
+            },
+            {
+              "name": "Cranberry Concentrate",
+              "description": "Frozen cranberry juice concentrate",
+              "price": 300
+            },
+            {
+              "name": "Pomegranate Concentrate",
+              "description": "Frozen pomegranate juice concentrate",
+              "price": 320
+            },
+            {
+              "name": "Passion Fruit Concentrate",
+              "description": "Frozen passion fruit concentrate",
+              "price": 340
+            },
+            {
+              "name": "Guava Concentrate",
+              "description": "Frozen guava juice concentrate",
+              "price": 260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Snacks & Confectionery",
+      "sub_categories": [
+        {
+          "name": "Potato Chips",
+          "products": [
+            {
+              "name": "Classic Salted Chips",
+              "description": "Traditional salted potato chips",
+              "price": 40
+            },
+            {
+              "name": "Sour Cream Chips",
+              "description": "Sour cream and onion flavored chips",
+              "price": 45
+            },
+            {
+              "name": "BBQ Chips",
+              "description": "Barbecue flavored chips",
+              "price": 45
+            },
+            {
+              "name": "Cheese Chips",
+              "description": "Cheese flavored chips",
+              "price": 50
+            },
+            {
+              "name": "Spicy Chips",
+              "description": "Hot and spicy flavored chips",
+              "price": 45
+            },
+            {
+              "name": "Vinegar Chips",
+              "description": "Salt and vinegar flavored chips",
+              "price": 45
+            },
+            {
+              "name": "Ketchup Chips",
+              "description": "Ketchup flavored chips",
+              "price": 45
+            },
+            {
+              "name": "Ranch Chips",
+              "description": "Ranch flavored chips",
+              "price": 50
+            },
+            {
+              "name": "Jalapeno Chips",
+              "description": "Jalapeno flavored chips",
+              "price": 45
+            },
+            {
+              "name": "Sea Salt Chips",
+              "description": "Sea salt flavored chips",
+              "price": 50
+            }
+          ]
+        },
+        {
+          "name": "Chocolates",
+          "products": [
+            {
+              "name": "Dark Chocolate",
+              "description": "70% dark chocolate",
+              "price": 200
+            },
+            {
+              "name": "Milk Chocolate",
+              "description": "Creamy milk chocolate",
+              "price": 150
+            },
+            {
+              "name": "White Chocolate",
+              "description": "Sweet white chocolate",
+              "price": 180
+            },
+            {
+              "name": "Chocolate Truffles",
+              "description": "Rich chocolate truffles",
+              "price": 300
+            },
+            {
+              "name": "Chocolate Bars",
+              "description": "Assorted chocolate bars",
+              "price": 120
+            },
+            {
+              "name": "Chocolate Covered Nuts",
+              "description": "Nuts covered in chocolate",
+              "price": 250
+            },
+            {
+              "name": "Chocolate Cookies",
+              "description": "Chocolate chip cookies",
+              "price": 180
+            },
+            {
+              "name": "Chocolate Wafers",
+              "description": "Crispy chocolate wafers",
+              "price": 160
+            },
+            {
+              "name": "Chocolate Fudge",
+              "description": "Rich chocolate fudge",
+              "price": 220
+            },
+            {
+              "name": "Chocolate Covered Fruits",
+              "description": "Fruits dipped in chocolate",
+              "price": 280
+            }
+          ]
+        },
+        {
+          "name": "Nuts & Dried Fruits",
+          "products": [
+            {
+              "name": "Almonds",
+              "description": "Raw almonds",
+              "price": 400
+            },
+            {
+              "name": "Cashews",
+              "description": "Raw cashews",
+              "price": 450
+            },
+            {
+              "name": "Walnuts",
+              "description": "Raw walnuts",
+              "price": 350
+            },
+            {
+              "name": "Raisins",
+              "description": "Dried grapes",
+              "price": 200
+            },
+            {
+              "name": "Dates",
+              "description": "Medjool dates",
+              "price": 300
+            },
+            {
+              "name": "Pistachios",
+              "description": "Raw pistachios",
+              "price": 500
+            },
+            {
+              "name": "Dried Apricots",
+              "description": "Sun-dried apricots",
+              "price": 250
+            },
+            {
+              "name": "Brazil Nuts",
+              "description": "Raw Brazil nuts",
+              "price": 550
+            },
+            {
+              "name": "Dried Cranberries",
+              "description": "Sweetened dried cranberries",
+              "price": 280
+            },
+            {
+              "name": "Mixed Nuts",
+              "description": "Assorted nuts mix",
+              "price": 450
+            }
+          ]
+        },
+        {
+          "name": "Cookies & Biscuits",
+          "products": [
+            {
+              "name": "Chocolate Chip Cookies",
+              "description": "Classic chocolate chip cookies",
+              "price": 120
+            },
+            {
+              "name": "Oreo Cookies",
+              "description": "Chocolate sandwich cookies",
+              "price": 100
+            },
+            {
+              "name": "Digestive Biscuits",
+              "description": "Whole wheat digestive biscuits",
+              "price": 80
+            },
+            {
+              "name": "Shortbread Cookies",
+              "description": "Buttery shortbread cookies",
+              "price": 150
+            },
+            {
+              "name": "Graham Crackers",
+              "description": "Honey graham crackers",
+              "price": 90
+            },
+            {
+              "name": "Wafer Cookies",
+              "description": "Crispy wafer cookies",
+              "price": 70
+            },
+            {
+              "name": "Butter Cookies",
+              "description": "Classic butter cookies",
+              "price": 110
+            },
+            {
+              "name": "Ginger Snaps",
+              "description": "Spiced ginger cookies",
+              "price": 100
+            },
+            {
+              "name": "Macarons",
+              "description": "French macaron cookies",
+              "price": 200
+            },
+            {
+              "name": "Fortune Cookies",
+              "description": "Traditional fortune cookies",
+              "price": 60
+            }
+          ]
+        },
+        {
+          "name": "Candy & Sweets",
+          "products": [
+            {
+              "name": "Gummy Bears",
+              "description": "Fruit flavored gummy bears",
+              "price": 80
+            },
+            {
+              "name": "Lollipops",
+              "description": "Assorted lollipops",
+              "price": 50
+            },
+            {
+              "name": "Hard Candies",
+              "description": "Mixed fruit hard candies",
+              "price": 60
+            },
+            {
+              "name": "Caramel Toffees",
+              "description": "Soft caramel toffees",
+              "price": 70
+            },
+            {
+              "name": "Jelly Beans",
+              "description": "Assorted jelly beans",
+              "price": 90
+            },
+            {
+              "name": "Marshmallows",
+              "description": "Soft marshmallows",
+              "price": 100
+            },
+            {
+              "name": "Licorice",
+              "description": "Black licorice candy",
+              "price": 80
+            },
+            {
+              "name": "Cotton Candy",
+              "description": "Fluffy cotton candy",
+              "price": 120
+            },
+            {
+              "name": "Rock Candy",
+              "description": "Crystal rock candy",
+              "price": 70
+            },
+            {
+              "name": "Fruit Chews",
+              "description": "Soft fruit chews",
+              "price": 85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Personal Care",
+      "sub_categories": [
+        {
+          "name": "Skincare",
+          "products": [
+            {
+              "name": "Face Cream",
+              "description": "Moisturizing face cream",
+              "price": 500
+            },
+            {
+              "name": "Face Wash",
+              "description": "Gentle face wash",
+              "price": 300
+            },
+            {
+              "name": "Sunscreen",
+              "description": "SPF 50 sunscreen",
+              "price": 400
+            },
+            {
+              "name": "Serum",
+              "description": "Vitamin C serum",
+              "price": 800
+            },
+            {
+              "name": "Face Mask",
+              "description": "Hydrating face mask",
+              "price": 600
+            },
+            {
+              "name": "Eye Cream",
+              "description": "Anti-aging eye cream",
+              "price": 700
+            },
+            {
+              "name": "Toner",
+              "description": "Facial toner",
+              "price": 350
+            },
+            {
+              "name": "Scrub",
+              "description": "Gentle face scrub",
+              "price": 450
+            },
+            {
+              "name": "Night Cream",
+              "description": "Repairing night cream",
+              "price": 600
+            },
+            {
+              "name": "BB Cream",
+              "description": "Tinted BB cream",
+              "price": 550
+            }
+          ]
+        },
+        {
+          "name": "Hair Care",
+          "products": [
+            {
+              "name": "Shampoo",
+              "description": "Nourishing shampoo",
+              "price": 400
+            },
+            {
+              "name": "Conditioner",
+              "description": "Hydrating conditioner",
+              "price": 450
+            },
+            {
+              "name": "Hair Oil",
+              "description": "Natural hair oil",
+              "price": 500
+            },
+            {
+              "name": "Hair Mask",
+              "description": "Deep conditioning mask",
+              "price": 600
+            },
+            {
+              "name": "Hair Serum",
+              "description": "Smoothing hair serum",
+              "price": 550
+            },
+            {
+              "name": "Dry Shampoo",
+              "description": "Refreshing dry shampoo",
+              "price": 350
+            },
+            {
+              "name": "Hair Spray",
+              "description": "Holding hair spray",
+              "price": 400
+            },
+            {
+              "name": "Hair Gel",
+              "description": "Styling hair gel",
+              "price": 300
+            },
+            {
+              "name": "Hair Color",
+              "description": "Permanent hair color",
+              "price": 700
+            },
+            {
+              "name": "Scalp Treatment",
+              "description": "Scalp care treatment",
+              "price": 800
+            }
+          ]
+        },
+        {
+          "name": "Body Care",
+          "products": [
+            {
+              "name": "Body Lotion",
+              "description": "Moisturizing body lotion",
+              "price": 400
+            },
+            {
+              "name": "Body Wash",
+              "description": "Gentle body wash",
+              "price": 300
+            },
+            {
+              "name": "Body Scrub",
+              "description": "Exfoliating body scrub",
+              "price": 450
+            },
+            {
+              "name": "Body Oil",
+              "description": "Nourishing body oil",
+              "price": 500
+            },
+            {
+              "name": "Hand Cream",
+              "description": "Moisturizing hand cream",
+              "price": 250
+            },
+            {
+              "name": "Foot Cream",
+              "description": "Healing foot cream",
+              "price": 300
+            },
+            {
+              "name": "Body Butter",
+              "description": "Rich body butter",
+              "price": 550
+            },
+            {
+              "name": "Deodorant",
+              "description": "Long-lasting deodorant",
+              "price": 200
+            },
+            {
+              "name": "Body Mist",
+              "description": "Refreshing body mist",
+              "price": 350
+            },
+            {
+              "name": "Shower Gel",
+              "description": "Aromatherapy shower gel",
+              "price": 400
+            }
+          ]
+        },
+        {
+          "name": "Oral Care",
+          "products": [
+            {
+              "name": "Toothpaste",
+              "description": "Fluoride toothpaste",
+              "price": 150
+            },
+            {
+              "name": "Toothbrush",
+              "description": "Electric toothbrush",
+              "price": 800
+            },
+            {
+              "name": "Mouthwash",
+              "description": "Antiseptic mouthwash",
+              "price": 200
+            },
+            {
+              "name": "Dental Floss",
+              "description": "Waxed dental floss",
+              "price": 100
+            },
+            {
+              "name": "Teeth Whitener",
+              "description": "Teeth whitening kit",
+              "price": 500
+            },
+            {
+              "name": "Tongue Cleaner",
+              "description": "Metal tongue cleaner",
+              "price": 80
+            },
+            {
+              "name": "Breath Freshener",
+              "description": "Natural breath freshener",
+              "price": 120
+            },
+            {
+              "name": "Gum Care",
+              "description": "Gum care treatment",
+              "price": 300
+            },
+            {
+              "name": "Tooth Powder",
+              "description": "Natural tooth powder",
+              "price": 180
+            },
+            {
+              "name": "Interdental Brush",
+              "description": "Small interdental brush",
+              "price": 150
+            }
+          ]
+        },
+        {
+          "name": "Makeup",
+          "products": [
+            {
+              "name": "Foundation",
+              "description": "Liquid foundation",
+              "price": 800
+            },
+            {
+              "name": "Lipstick",
+              "description": "Matte lipstick",
+              "price": 400
+            },
+            {
+              "name": "Mascara",
+              "description": "Volumizing mascara",
+              "price": 500
+            },
+            {
+              "name": "Eyeliner",
+              "description": "Liquid eyeliner",
+              "price": 300
+            },
+            {
+              "name": "Blush",
+              "description": "Powder blush",
+              "price": 350
+            },
+            {
+              "name": "Eyeshadow",
+              "description": "Eyeshadow palette",
+              "price": 600
+            },
+            {
+              "name": "Concealer",
+              "description": "Full coverage concealer",
+              "price": 450
+            },
+            {
+              "name": "Bronzer",
+              "description": "Matte bronzer",
+              "price": 400
+            },
+            {
+              "name": "Highlighter",
+              "description": "Cream highlighter",
+              "price": 500
+            },
+            {
+              "name": "Setting Powder",
+              "description": "Translucent setting powder",
+              "price": 550
+            }
+          ]
+        }
+      ]
+    }
+  ]
+} 
